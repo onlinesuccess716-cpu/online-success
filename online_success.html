@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Online Success — Learn, Work, Earn. اردو اور English میں آن لائن سیکھنے، فری لانسنگ اور کام کے مواقع کی رہنمائی۔">
+  <title>Online Success | Learn • Work • Earn</title>
+  <style>
+    :root{--navy:#102b50;--blue:#1769aa;--gold:#f2b84b;--ink:#172235;--muted:#64748b;--paper:#f4f7fb;--white:#fff}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif;background:var(--paper);color:var(--ink);line-height:1.7}
+    header{background:linear-gradient(120deg,var(--navy),var(--blue));color:white;padding:18px 5%;display:flex;justify-content:space-between;align-items:center;gap:15px;flex-wrap:wrap}
+    .brand{font-size:1.35rem;font-weight:800;letter-spacing:.4px}.tag{color:#ffe3a3;font-size:.9rem}
+    nav{display:flex;gap:14px;flex-wrap:wrap}nav a{color:white;text-decoration:none;font-size:.94rem}
+    .hero{padding:58px 5%;background:linear-gradient(120deg,#e7f1fc,#fff);text-align:center}
+    .hero h1{font-size:clamp(2rem,5vw,3.2rem);color:var(--navy);margin:0 0 8px}
+    .hero p{max-width:720px;margin:8px auto;color:#42536a}
+    .btn{display:inline-block;background:var(--blue);color:#fff;text-decoration:none;padding:11px 20px;border-radius:9px;margin:12px 5px;font-weight:700}
+    main{max-width:1100px;margin:auto;padding:28px 5% 55px}
+    .section-title{text-align:center;color:var(--navy);margin:12px 0 22px}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:17px}
+    .card{background:white;padding:20px;border-radius:14px;box-shadow:0 5px 18px #102b5010;border:1px solid #e6edf5}
+    .card h3{margin:0 0 8px;color:var(--blue)}
+    .card p{margin:0;color:#536176}
+    .notice{margin-top:25px;padding:18px;border-right:4px solid var(--gold);background:#fff8e9;border-radius:9px}
+    .lang{border:1px solid #ffffff80;color:white;background:transparent;border-radius:8px;padding:8px 12px;cursor:pointer}
+    .english{direction:ltr;text-align:left}
+    footer{background:var(--navy);color:#dce8f7;text-align:center;padding:22px 5%;font-size:.92rem}
+    footer a{color:#ffe3a3}
+    [hidden]{display:none!important}
+    @media(max-width:600px){header{justify-content:center;text-align:center}nav{justify-content:center}.hero{padding:42px 5%}}
+  </style>
+</head>
+<body>
+<header>
+  <div>
+    <div class="brand">ONLINE SUCCESS</div>
+    <div class="tag">Learn • Work • Earn</div>
+  </div>
+  <nav aria-label="Main navigation">
+    <a href="#home" data-ur="ہوم" data-en="Home">ہوم</a>
+    <a href="#topics" data-ur="موضوعات" data-en="Topics">موضوعات</a>
+    <a href="#about" data-ur="ہمارے بارے میں" data-en="About">ہمارے بارے میں</a>
+    <a href="#contact" data-ur="رابطہ" data-en="Contact">رابطہ</a>
+  </nav>
+  <button class="lang" id="langBtn" type="button">English</button>
+</header>
+
+<section class="hero" id="home">
+  <div id="urHero" lang="ur">
+    <h1>سیکھیں، کام کریں، آگے بڑھیں</h1>
+    <p>آن لائن ہنر، فری لانسنگ، تعلیم اور کام کے مواقع کے بارے میں آسان اردو رہنمائی۔ درست معلومات حاصل کریں اور اپنی صلاحیتیں بہتر بنائیں۔</p>
+    <a class="btn" href="#topics">موضوعات دیکھیں</a>
+  </div>
+  <div id="enHero" class="english" lang="en" hidden>
+    <h1>Learn, Work and Grow</h1>
+    <p>Simple guidance about online skills, freelancing, learning and work opportunities. Find reliable information and build your skills step by step.</p>
+    <a class="btn" href="#topics">Explore Topics</a>
+  </div>
+</section>
+
+<main>
+  <section id="topics">
+    <h2 class="section-title" id="topicTitle">آپ یہاں کیا سیکھ سکتے ہیں؟</h2>
+    <div class="grid">
+      <article class="card"><h3 data-ur="آن لائن ہنر" data-en="Online Skills">آن لائن ہنر</h3><p data-ur="کمپیوٹر، ڈیجیٹل مہارتوں اور آن لائن سیکھنے کے بنیادی طریقے۔" data-en="Basics of computers, digital skills and learning online.">کمپیوٹر، ڈیجیٹل مہارتوں اور آن لائن سیکھنے کے بنیادی طریقے۔</p></article>
+      <article class="card"><h3 data-ur="فری لانسنگ" data-en="Freelancing">فری لانسنگ</h3><p data-ur="فری لانسنگ کیا ہے، کام کیسے تلاش کریں اور محفوظ طریقے سے آغاز کیسے کریں۔" data-en="What freelancing is, how to find projects and how to get started safely.">فری لانسنگ کیا ہے، کام کیسے تلاش کریں اور محفوظ طریقے سے آغاز کیسے کریں۔</p></article>
+      <article class="card"><h3 data-ur="نوکریوں کی معلومات" data-en="Job Information">نوکریوں کی معلومات</h3><p data-ur="ملازمتوں کے اشتہارات پڑھنے، اہلیت سمجھنے اور درخواست دینے کی رہنمائی۔" data-en="Guidance on reading job listings, understanding requirements and applying.">ملازمتوں کے اشتہارات پڑھنے، اہلیت سمجھنے اور درخواست دینے کی رہنمائی۔</p></article>
+      <article class="card"><h3 data-ur="مصنوعی ذہانت (AI)" data-en="Artificial Intelligence (AI)">مصنوعی ذہانت (AI)</h3><p data-ur="AI ٹولز کا تعارف اور تعلیم و روزمرہ کاموں میں ان کا ذمہ دارانہ استعمال۔" data-en="An introduction to AI tools and their responsible use in learning and daily tasks.">AI ٹولز کا تعارف اور تعلیم و روزمرہ کاموں میں ان کا ذمہ دارانہ استعمال۔</p></article>
+      <article class="card"><h3 data-ur="چھوٹا کاروبار" data-en="Small Business">چھوٹا کاروبار</h3><p data-ur="کاروباری منصوبہ بندی، گاہکوں کی خدمت اور بنیادی ڈیجیٹل تشہیر۔" data-en="Business planning, customer service and basic digital promotion.">کاروباری منصوبہ بندی، گاہکوں کی خدمت اور بنیادی ڈیجیٹل تشہیر۔</p></article>
+      <article class="card"><h3 data-ur="آن لائن حفاظت" data-en="Online Safety">آن لائن حفاظت</h3><p data-ur="دھوکے سے بچاؤ، مضبوط پاس ورڈ اور ذاتی معلومات کی حفاظت کے اصول۔" data-en="How to avoid scams, use strong passwords and protect personal information.">دھوکے سے بچاؤ، مضبوط پاس ورڈ اور ذاتی معلومات کی حفاظت کے اصول۔</p></article>
+    </div>
+  </section>
+
+  <section id="about" style="margin-top:38px">
+    <h2 class="section-title" id="aboutTitle">ہمارے بارے میں</h2>
+    <div class="card">
+      <p id="aboutText">Online Success ایک معلوماتی پلیٹ فارم ہے جس کا مقصد لوگوں کو سیکھنے، ڈیجیٹل مہارتیں بہتر بنانے اور جائز کام کے مواقع سمجھنے میں مدد دینا ہے۔ ہم کسی آمدنی کی ضمانت نہیں دیتے؛ ہر موقع کی شرائط اور ساکھ خود بھی ضرور جانچیں۔</p>
+    </div>
+  </section>
+
+  <div class="notice" id="noticeText">اہم احتیاط: کسی بھی آن لائن کام کے لیے پہلے سے رقم، OTP، پاس ورڈ یا بینک کی خفیہ معلومات مانگنے والوں سے محتاط رہیں۔</div>
+
+  <section id="contact" style="margin-top:35px">
+    <h2 class="section-title" id="contactTitle">رابطہ کریں</h2>
+    <div class="card">
+      <p id="contactText">اپنا رابطہ ای میل یہاں شامل کریں۔</p>
+      <p><strong>Email:</strong> <span>your-email@example.com</span></p>
+      <p style="color:#64748b;font-size:.9rem">اشاعت سے پہلے اس نمونے والے ای میل کو اپنے درست کاروباری ای میل سے تبدیل کریں۔</p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div>© <span id="year"></span> Online Success. All rights reserved.</div>
+  <div>Learn • Work • Earn</div>
+</footer>
+
+<script>
+  const translations = {
+    ur: {
+      topicTitle:"آپ یہاں کیا سیکھ سکتے ہیں؟", aboutTitle:"ہمارے بارے میں",
+      aboutText:"Online Success ایک معلوماتی پلیٹ فارم ہے جس کا مقصد لوگوں کو سیکھنے، ڈیجیٹل مہارتیں بہتر بنانے اور جائز کام کے مواقع سمجھنے میں مدد دینا ہے۔ ہم کسی آمدنی کی ضمانت نہیں دیتے؛ ہر موقع کی شرائط اور ساکھ خود بھی ضرور جانچیں۔",
+      noticeText:"اہم احتیاط: کسی بھی آن لائن کام کے لیے پہلے سے رقم، OTP، پاس ورڈ یا بینک کی خفیہ معلومات مانگنے والوں سے محتاط رہیں۔",
+      contactTitle:"رابطہ کریں", contactText:"اپنا رابطہ ای میل یہاں شامل کریں۔"
+    },
+    en: {
+      topicTitle:"What can you learn here?", aboutTitle:"About Us",
+      aboutText:"Online Success is an information platform designed to help people learn, improve digital skills and understand legitimate work opportunities. We do not guarantee income; always check the terms and credibility of each opportunity.",
+      noticeText:"Safety note: Be cautious of anyone asking for upfront payments, OTPs, passwords or confidential banking information for an online job.",
+      contactTitle:"Contact Us", contactText:"Add your contact email address here."
+    }
+  };
+  let language = "ur";
+  function setLanguage(next) {
+    language = next;
+    document.documentElement.lang = next;
+    document.documentElement.dir = next === "ur" ? "rtl" : "ltr";
+    document.body.classList.toggle("english", next === "en");
+    document.getElementById("urHero").hidden = next !== "ur";
+    document.getElementById("enHero").hidden = next !== "en";
+    document.getElementById("langBtn").textContent = next === "ur" ? "English" : "اردو";
+    document.querySelectorAll("[data-ur][data-en]").forEach(el => el.textContent = el.dataset[next]);
+    Object.entries(translations[next]).forEach(([id, value]) => document.getElementById(id).textContent = value);
+  }
+  document.getElementById("langBtn").addEventListener("click", () => setLanguage(language === "ur" ? "en" : "ur"));
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+</body>
+</html>

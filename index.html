@@ -19,9 +19,11 @@
     main{max-width:1100px;margin:auto;padding:28px 5% 55px}
     .section-title{text-align:center;color:var(--navy);margin:12px 0 22px}
     .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:17px}
-    .card{background:white;padding:20px;border-radius:14px;box-shadow:0 5px 18px #102b5010;border:1px solid #e6edf5}
+    .card{background:white;padding:20px;border-radius:14px;box-shadow:0 5px 18px #102b5010;border:1px solid #e6edf5;text-decoration:none;display:block;transition:0.2s}
+    a.card:hover{transform:translateY(-3px);box-shadow:0 10px 25px #102b5020;border-color:#1769aa}
     .card h3{margin:0 0 8px;color:var(--blue)}
     .card p{margin:0;color:#536176}
+    .open{display:inline-block;margin-top:12px;background:#1769aa;color:#fff!important;padding:8px 14px;border-radius:8px;font-size:14px;font-weight:700}
     .notice{margin-top:25px;padding:18px;border-right:4px solid var(--gold);background:#fff8e9;border-radius:9px}
     .lang{border:1px solid #ffffff80;color:white;background:transparent;border-radius:8px;padding:8px 12px;cursor:pointer}
     .english{direction:ltr;text-align:left}
@@ -63,12 +65,43 @@
   <section id="topics">
     <h2 class="section-title" id="topicTitle">آپ یہاں کیا سیکھ سکتے ہیں؟</h2>
     <div class="grid">
-      <article class="card"><h3 data-ur="آن لائن ہنر" data-en="Online Skills">آن لائن ہنر</h3><p data-ur="کمپیوٹر، ڈیجیٹل مہارتوں اور آن لائن سیکھنے کے بنیادی طریقے۔" data-en="Basics of computers, digital skills and learning online.">کمپیوٹر، ڈیجیٹل مہارتوں اور آن لائن سیکھنے کے بنیادی طریقے۔</p></article>
-      <article class="card"><h3 data-ur="فری لانسنگ" data-en="Freelancing">فری لانسنگ</h3><p data-ur="فری لانسنگ کیا ہے، کام کیسے تلاش کریں اور محفوظ طریقے سے آغاز کیسے کریں۔" data-en="What freelancing is, how to find projects and how to get started safely.">فری لانسنگ کیا ہے، کام کیسے تلاش کریں اور محفوظ طریقے سے آغاز کیسے کریں۔</p></article>
-      <article class="card"><h3 data-ur="نوکریوں کی معلومات" data-en="Job Information">نوکریوں کی معلومات</h3><p data-ur="ملازمتوں کے اشتہارات پڑھنے، اہلیت سمجھنے اور درخواست دینے کی رہنمائی۔" data-en="Guidance on reading job listings, understanding requirements and applying.">ملازمتوں کے اشتہارات پڑھنے، اہلیت سمجھنے اور درخواست دینے کی رہنمائی۔</p></article>
-      <article class="card"><h3 data-ur="مصنوعی ذہانت (AI)" data-en="Artificial Intelligence (AI)">مصنوعی ذہانت (AI)</h3><p data-ur="AI ٹولز کا تعارف اور تعلیم و روزمرہ کاموں میں ان کا ذمہ دارانہ استعمال۔" data-en="An introduction to AI tools and their responsible use in learning and daily tasks.">AI ٹولز کا تعارف اور تعلیم و روزمرہ کاموں میں ان کا ذمہ دارانہ استعمال۔</p></article>
-      <article class="card"><h3 data-ur="چھوٹا کاروبار" data-en="Small Business">چھوٹا کاروبار</h3><p data-ur="کاروباری منصوبہ بندی، گاہکوں کی خدمت اور بنیادی ڈیجیٹل تشہیر۔" data-en="Business planning, customer service and basic digital promotion.">کاروباری منصوبہ بندی، گاہکوں کی خدمت اور بنیادی ڈیجیٹل تشہیر۔</p></article>
-      <article class="card"><h3 data-ur="آن لائن حفاظت" data-en="Online Safety">آن لائن حفاظت</h3><p data-ur="دھوکے سے بچاؤ، مضبوط پاس ورڈ اور ذاتی معلومات کی حفاظت کے اصول۔" data-en="How to avoid scams, use strong passwords and protect personal information.">دھوکے سے بچاؤ، مضبوط پاس ورڈ اور ذاتی معلومات کی حفاظت کے اصول۔</p></article>
+
+      <a class="card" href="Online-hunar/">
+        <h3 data-ur="آن لائن ہنر" data-en="Online Skills">آن لائن ہنر</h3>
+        <p data-ur="کمپیوٹر، ڈیجیٹل مہارتوں اور آن لائن سیکھنے کے بنیادی طریقے۔" data-en="Basics of computers, digital skills and learning online.">کمپیوٹر، ڈیجیٹل مہارتوں اور آن لائن سیکھنے کے بنیادی طریقے۔</p>
+        <span class="open" data-ur="کھولیں →" data-en="Open →">کھولیں →</span>
+      </a>
+
+      <a class="card" href="Freelancing/">
+        <h3 data-ur="فری لانسنگ" data-en="Freelancing">فری لانسنگ</h3>
+        <p data-ur="فری لانسنگ کیا ہے، کام کیسے تلاش کریں اور محفوظ طریقے سے آغاز کیسے کریں۔" data-en="What freelancing is, how to find projects and how to get started safely.">فری لانسنگ کیا ہے، کام کیسے تلاش کریں اور محفوظ طریقے سے آغاز کیسے کریں۔</p>
+        <span class="open" data-ur="کھولیں →" data-en="Open →">کھولیں →</span>
+      </a>
+
+      <a class="card" href="Jobs/">
+        <h3 data-ur="نوکریوں کی معلومات" data-en="Job Information">نوکریوں کی معلومات</h3>
+        <p data-ur="ملازمتوں کے اشتہارات پڑھنے، اہلیت سمجھنے اور درخواست دینے کی رہنمائی۔" data-en="Guidance on reading job listings, understanding requirements and applying.">ملازمتوں کے اشتہارات پڑھنے، اہلیت سمجھنے اور درخواست دینے کی رہنمائی۔</p>
+        <span class="open" data-ur="کھولیں →" data-en="Open →">کھولیں →</span>
+      </a>
+
+      <a class="card" href="Ai/">
+        <h3 data-ur="مصنوعی ذہانت (AI)" data-en="Artificial Intelligence (AI)">مصنوعی ذہانت (AI)</h3>
+        <p data-ur="AI ٹولز کا تعارف اور تعلیم و روزمرہ کاموں میں ان کا ذمہ دارانہ استعمال۔" data-en="An introduction to AI tools and their responsible use in learning and daily tasks.">AI ٹولز کا تعارف اور تعلیم و روزمرہ کاموں میں ان کا ذمہ دارانہ استعمال۔</p>
+        <span class="open" data-ur="کھولیں →" data-en="Open →">کھولیں →</span>
+      </a>
+
+      <a class="card" href="Chota-karobar/">
+        <h3 data-ur="چھوٹا کاروبار" data-en="Small Business">چھوٹا کاروبار</h3>
+        <p data-ur="کاروباری منصوبہ بندی، گاہکوں کی خدمت اور بنیادی ڈیجیٹل تشہیر۔" data-en="Business planning, customer service and basic digital promotion.">کاروباری منصوبہ بندی، گاہکوں کی خدمت اور بنیادی ڈیجیٹل تشہیر۔</p>
+        <span class="open" data-ur="کھولیں →" data-en="Open →">کھولیں →</span>
+      </a>
+
+      <a class="card" href="Online-hifazat/">
+        <h3 data-ur="آن لائن حفاظت" data-en="Online Safety">آن لائن حفاظت</h3>
+        <p data-ur="دھوکے سے بچاؤ، مضبوط پاس ورڈ اور ذاتی معلومات کی حفاظت کے اصول۔" data-en="How to avoid scams, use strong passwords and protect personal information.">دھوکے سے بچاؤ، مضبوط پاس ورڈ اور ذاتی معلومات کی حفاظت کے اصول۔</p>
+        <span class="open" data-ur="کھولیں →" data-en="Open →">کھولیں →</span>
+      </a>
+
     </div>
   </section>
 
@@ -126,106 +159,5 @@
   document.getElementById("langBtn").addEventListener("click", () => setLanguage(language === "ur" ? "en" : "ur"));
   document.getElementById("year").textContent = new Date().getFullYear();
 </script>
-</body>
-</html>
-
-
-
-<!DOCTYPE html>
-<html lang="ur" dir="rtl">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>کامیاب کاروبار کیسے شروع کریں؟</title>
-
-<meta name="description" content="کاروبار شروع کرنے، کامیابی حاصل کرنے اور آن لائن بزنس بڑھانے کے بہترین طریقے جانیں۔">
-
-<style>
-body {
-    font-family: Arial, sans-serif;
-    background: #f5f7fa;
-    color: #222;
-    line-height: 2;
-    padding: 15px;
-}
-article {
-    max-width: 850px;
-    margin: auto;
-    background: white;
-    padding: 25px;
-    border-radius: 10px;
-}
-h1 {
-    color: #087443;
-    font-size: 28px;
-}
-h2 {
-    color: #145c9e;
-}
-p {
-    font-size: 18px;
-}
-</style>
-</head>
-
-<body>
-
-<article>
-
-<h1>کامیاب کاروبار کیسے شروع کریں؟ مکمل رہنمائی</h1>
-
-<p>
-آج کے دور میں کاروبار کرنا صرف پیسہ کمانے کا ذریعہ نہیں بلکہ اپنے مستقبل کو بہتر بنانے کا ایک بہترین موقع بھی ہے۔ بہت سے لوگ اپنا کاروبار شروع کرنا چاہتے ہیں لیکن انہیں سمجھ نہیں آتی کہ آغاز کہاں سے کریں۔
-</p>
-
-<h2>1۔ کاروبار شروع کرنے کا منصوبہ بنائیں</h2>
-
-<p>
-کسی بھی کاروبار کو شروع کرنے سے پہلے ایک اچھا منصوبہ بنانا ضروری ہے۔ سب سے پہلے یہ فیصلہ کریں کہ آپ کون سا کاروبار کرنا چاہتے ہیں، آپ کے پاس کتنا سرمایہ موجود ہے اور آپ کے علاقے میں کس چیز کی زیادہ ضرورت ہے۔
-</p>
-
-<h2>2۔ کم سرمایہ سے کاروبار شروع کریں</h2>
-
-<p>
-ضروری نہیں کہ کاروبار شروع کرنے کے لیے لاکھوں روپے درکار ہوں۔ آپ چھوٹے پیمانے پر بھی کام شروع کر سکتے ہیں۔ مثال کے طور پر آن لائن شاپ، کپڑوں کا کاروبار، موبائل لوازمات، فری لانسنگ اور ہوم ڈیلیوری سروس اچھے مواقع ہو سکتے ہیں۔
-</p>
-
-<h2>3۔ آن لائن کاروبار کے مواقع</h2>
-
-<p>
-انٹرنیٹ نے کاروبار کے نئے راستے کھول دیے ہیں۔ آج لوگ گھر بیٹھے اپنی مصنوعات فروخت کر سکتے ہیں، آن لائن خدمات فراہم کر سکتے ہیں اور اپنی ویب سائٹ کے ذریعے گاہک حاصل کر سکتے ہیں۔
-</p>
-
-<h2>4۔ گاہکوں کا اعتماد حاصل کریں</h2>
-
-<p>
-کسی بھی کاروبار کی کامیابی میں گاہکوں کا اعتماد بہت اہم ہے۔ ہمیشہ اچھی کوالٹی کی مصنوعات فراہم کریں، مناسب قیمت رکھیں اور گاہکوں کے ساتھ اچھا رویہ اختیار کریں۔
-</p>
-
-<h2>5۔ محنت اور مستقل مزاجی اختیار کریں</h2>
-
-<p>
-کاروبار میں کامیابی ایک دن میں حاصل نہیں ہوتی۔ اس کے لیے وقت، محنت، صبر اور مستقل مزاجی کی ضرورت ہوتی ہے۔ اپنی غلطیوں سے سیکھیں اور اپنے کام کو بہتر بناتے رہیں۔
-</p>
-
-<h2>نتیجہ</h2>
-
-<p>
-اگر آپ ایک اچھا منصوبہ بناتے ہیں، کم سرمایہ سے آغاز کرتے ہیں، گاہکوں کا اعتماد حاصل کرتے ہیں اور مسلسل محنت کرتے ہیں تو آپ بھی ایک کامیاب کاروبار قائم کر سکتے ہیں۔
-</p>
-
-<p>
-یاد رکھیں! کامیابی کا پہلا قدم صرف سوچنا نہیں بلکہ درست منصوبہ بندی کے ساتھ آغاز کرنا ہے۔
-</p>
-
-<h2>مزید معلومات</h2>
-
-<p>
-کاروبار، آن لائن کمائی، تعلیم اور روزگار سے متعلق مزید معلومات کے لیے ہماری ویب سائٹ وزٹ کرتے رہیں۔
-</p>
-
-</article>
-
 </body>
 </html>

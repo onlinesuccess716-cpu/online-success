@@ -1,97 +1,167 @@
 <!DOCTYPE html>
-<html lang="ur" dir="rtl">
+<html lang="ur" dir="ltr">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>فری لانسنگ کیسے شروع کریں؟ گھر بیٹھے پیسے کمانے کا مکمل طریقہ - Online Success</title>
-<meta name="description" content="فری لانسنگ کیسے شروع کریں؟ بغیر پیسوں کے گھر بیٹھے آن لائن کمائی کا مکمل طریقہ، بہترین سکلز، Fiverr اور Upwork پر اکاؤنٹ بنانے کا طریقہ۔">
-<style>
-body{background:#eef4fb;font-family:Arial;margin:0;padding:15px}
-.box{background:#fff;max-width:800px;margin:auto;padding:20px;border-radius:15px}
-h1{color:#1a5fb4;text-align:center;line-height:1.6}
-h2{color:#102b50;border-right:4px solid #1a5fb4;padding-right:10px;margin-top:30px}
-h3{color:#1a5fb4}
-p,li{color:#444;line-height:1.9;font-size:17px}
-ul{padding-right:20px}
-.box2{background:#f0f7ff;border-radius:12px;padding:15px;margin:15px 0}
-.tip{background:#fff8e9;border:1px solid #f2b84b;border-radius:12px;padding:15px;margin:15px 0}
-a{color:#1a5fb4;text-decoration:none}
-.back{display:block;text-align:center;margin-top:25px;background:#1a5fb4;color:#fff!important;padding:12px;border-radius:10px}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Freelancing kaise shuru karen? Baghair paison ke ghar baithe online kamai ka mukammal tareeqa, behtareen skills, Fiverr aur Upwork par account banane ka tareeqa - Online Success.">
+  <link rel="canonical" href="https://www.onlinesuccess.com/Freelancing/freelancing-kaise-shuru-karen/">
+  <title>Freelancing Kaise Shuru Karen? Ghar Baithe Paise Kamane Ka Mukammal Tareeqa | Online Success</title>
+  <style>
+    :root{--navy:#102b50;--blue:#1769aa;--gold:#f2b84b;--ink:#172235;--muted:#64748b;--paper:#f4f7fb;--white:#fff}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif;background:var(--paper);color:var(--ink);line-height:1.7}
+    header{background:linear-gradient(120deg,var(--navy),var(--blue));color:white;padding:18px 5%;display:flex;justify-content:space-between;align-items:center;gap:15px;flex-wrap:wrap}
+    .brand{font-size:1.35rem;font-weight:800;letter-spacing:.4px}.tag{color:#ffe3a3;font-size:.9rem}
+    nav{display:flex;gap:14px;flex-wrap:wrap}nav a{color:white;text-decoration:none;font-size:.94rem}
+    .hero{padding:48px 5%;background:linear-gradient(120deg,#e7f1fc,#fff);text-align:center}
+    .hero h1{font-size:clamp(1.9rem,5vw,2.8rem);color:var(--navy);margin:0 0 8px}
+    .hero p{max-width:720px;margin:8px auto;color:#42536a}
+    .btn{display:inline-block;background:var(--blue);color:#fff;text-decoration:none;padding:11px 20px;border-radius:9px;margin:12px 5px;font-weight:700}
+    main{max-width:900px;margin:auto;padding:28px 5% 55px}
+    .section-title{color:var(--navy);margin:28px 0 12px}
+    .card{background:white;padding:20px;border-radius:14px;box-shadow:0 5px 18px #102b5010;border:1px solid #e6edf5;margin-bottom:16px}
+    .card h2,.card h3{margin:0 0 8px;color:var(--blue)}
+    .card p{margin:0 0 10px;color:#536176}
+    .card p:last-child{margin-bottom:0}
+    .card ul{margin:0 0 10px;padding-left:20px;color:#536176}
+    .card li{margin-bottom:6px}
+    .notice{margin-top:25px;padding:18px;border-right:4px solid var(--gold);background:#fff8e9;border-radius:9px}
+    .tip{background:#e7f1fc;border-right:4px solid #1769aa;padding:15px 18px;border-radius:9px;margin:20px 0;color:#34495e}
+    .related{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-top:14px}
+    .related a{background:white;padding:16px;border-radius:12px;border:1px solid #e6edf5;text-decoration:none;display:block}
+    .related a h3{margin:0 0 6px;color:var(--blue);font-size:1rem}
+    .related a p{margin:0;color:#536176;font-size:.95rem}
+    .faq-item{background:white;border:1px solid #e6edf5;border-radius:12px;padding:16px 18px;margin-bottom:12px}
+    .faq-item h3{margin:0 0 6px;color:var(--navy);font-size:1.05rem}
+    .faq-item p{margin:0;color:#536176}
+    .lang{border:1px solid #ffffff80;color:white;background:transparent;border-radius:8px;padding:8px 12px;cursor:pointer}
+    .english{direction:ltr;text-align:left}
+    footer{background:var(--navy);color:#dce8f7;text-align:center;padding:22px 5%;font-size:.92rem}
+    .footer-links{display:flex;gap:16px;justify-content:center;flex-wrap:wrap;margin:10px 0}
+    .footer-links a{color:#dce8f7;text-decoration:none}
+    .back{display:block;text-align:center;margin-top:20px;background:#1769aa;color:#fff!important;padding:12px;border-radius:10px;text-decoration:none;font-weight:700}
+    [hidden]{display:none!important}
+    @media(max-width:600px){header{justify-content:center;text-align:center}nav{justify-content:center}}
+  </style>
 </head>
 <body>
-<div class="box">
-<a href="../../index.html">← واپس ہوم پیج پر</a> | <a href="../index.html">← واپس فری لانسنگ پر</a>
+<header>
+  <div><div class="brand">ONLINE SUCCESS</div><div class="tag">Learn • Work • Earn</div></div>
+  <nav aria-label="Main navigation">
+    <a href="../../index.html" data-ur="Home" data-en="Home">Home</a>
+    <a href="../../index.html#topics" data-ur="Mozuhat" data-en="Topics">Mozuhat</a>
+    <a href="../../index.html#about" data-ur="Hamare Bare Mein" data-en="About">Hamare Bare Mein</a>
+    <a href="../../index.html#contact" data-ur="Rabta" data-en="Contact">Rabta</a>
+  </nav>
+  <button class="lang" id="langBtn" type="button">English</button>
+</header>
 
-<h1>فری لانسنگ کیسے شروع کریں؟<br>گھر بیٹھے پیسے کمانے کا مکمل طریقہ</h1>
-<p>کیا آپ گھر بیٹھے موبائل یا لیپ ٹاپ سے پیسے کمانا چاہتے ہیں؟ تو فری لانسنگ آپ کے لیے سب سے بہترین راستہ ہے۔ اس میں نہ دکان چاہیے، نہ زیادہ پیسے چاہیے، صرف ایک ہنر چاہیے اور تھوڑی سی محنت چاہیے۔</p>
-<p>اس آرٹیکل میں ہم آپ کو بالکل شروع سے بتائیں گے کہ فری لانسنگ کیا ہے، کون سی سکل سیکھیں، Fiverr اور Upwork پر اکاؤنٹ کیسے بنائیں اور پہلا آرڈر کیسے لیں۔</p>
+<section class="hero">
+  <div id="urHero" lang="ur">
+    <h1>Freelancing Kaise Shuru Karen?</h1>
+    <p>Category: Freelancing | Update: 2026<br>Ghar baithe mobile ya laptop se paise kamane ka mukammal tareeqa. Skill kaise seekhen, Fiverr aur Upwork par account kaise banayen aur pehla order kaise len.</p>
+    <a class="btn" href="#article">Article Parhen</a>
+    <a class="btn" href="#faq" style="background:#fff;color:#1769aa">FAQs Dekhen</a>
+  </div>
+  <div id="enHero" class="english" lang="en" hidden>
+    <h1>How To Start Freelancing?</h1>
+    <p>Category: Freelancing | Updated: 2026<br>Complete way to earn money from home with mobile or laptop. How to learn a skill, how to create account on Fiverr and Upwork and how to get first order.</p>
+    <a class="btn" href="#article">Read Article</a>
+    <a class="btn" href="#faq" style="background:#fff;color:#1769aa">See FAQs</a>
+  </div>
+</section>
 
-<div class="box2">
-<h3>یہ آرٹیکل کن لوگوں کے لیے ہے؟</h3>
-<ul>
-<li>جو سٹوڈنٹ ہیں اور پارٹ ٹائم کمائی کرنا چاہتے ہیں</li>
-<li>جو گھر بیٹھی خواتین ہیں اور آن لائن کام کرنا چاہتی ہیں</li>
-<li>جو نوکری کے ساتھ ساتھ ایکسٹرا کمائی کرنا چاہتے ہیں</li>
-</ul>
-</div>
+<main>
+<section id="article">
+  <div class="card">
+    <p data-ur="Kya aap ghar baithe mobile ya laptop se paise kamana chahte hain? To freelancing aap ke liye sab se behtareen raasta hai. Is mein na dukaan chahiye, na zyada paise chahiye, sirf ek hunar chahiye aur thori si mehnat chahiye." data-en="Do you want to earn money from home with mobile or laptop? Then freelancing is the best way for you. It needs no shop, no big money, only one skill and a little hard work.">Kya aap ghar baithe mobile ya laptop se paise kamana chahte hain? To freelancing aap ke liye sab se behtareen raasta hai. Is mein na dukaan chahiye, na zyada paise chahiye, sirf ek hunar chahiye aur thori si mehnat chahiye.</p>
+    <p data-ur="Is article mein hum aap ko bilkul shuru se batayen ge ke freelancing kya hai, kaun si skill seekhen, Fiverr aur Upwork par account kaise banayen aur pehla order kaise len." data-en="In this article we will tell you from the very beginning what freelancing is, which skill to learn, how to create account on Fiverr and Upwork and how to get first order.">Is article mein hum aap ko bilkul shuru se batayen ge ke freelancing kya hai, kaun si skill seekhen, Fiverr aur Upwork par account kaise banayen aur pehla order kaise len.</p>
+  </div>
 
-<h2>1۔ فری لانسنگ کیا ہوتی ہے؟</h2>
-<p>فری لانسنگ کا مطلب ہے کہ آپ کسی کمپنی کے ملازم نہیں ہوتے، بلکہ آپ اپنی مرضی سے دنیا بھر کے لوگوں کا کام کرتے ہیں اور اس کے پیسے لیتے ہیں۔</p>
-<p>مثال کے طور پر، اگر کسی کو لوگو بنوانا ہے، ویڈیو ایڈٹ کروانی ہے، یا ویب سائٹ بنوانی ہے، تو وہ آپ کو پیسے دے گا اور آپ اس کا کام کر کے دیں گے۔ آپ گھر بیٹھے کام کریں گے اور پیسے آپ کے بینک یا جاز کیش میں آ جائیں گے۔</p>
+  <div class="card">
+    <h3 data-ur="Ye Article Kin Logon Ke Liye Hai?" data-en="Who Is This Article For?">Ye Article Kin Logon Ke Liye Hai?</h3>
+    <ul>
+      <li data-ur="Jo student hain aur part-time kamai karna chahte hain" data-en="Students who want to earn part-time">Jo student hain aur part-time kamai karna chahte hain</li>
+      <li data-ur="Jo ghar baithi khawateen hain aur online kaam karna chahti hain" data-en="Housewives who want to work online">Jo ghar baithi khawateen hain aur online kaam karna chahti hain</li>
+      <li data-ur="Jo naukri ke saath saath extra kamai karna chahte hain" data-en="People who want extra income along with a job">Jo naukri ke saath saath extra kamai karna chahte hain</li>
+    </ul>
+  </div>
 
-<h2>2۔ فری لانسنگ کے لیے کون سی سکل سیکھیں؟</h2>
-<p>شروع میں سب سے بڑی غلطی یہ ہوتی ہے کہ لوگ سوچتے ہیں کہ ان کو سب کچھ آنا چاہیے۔ ایسا نہیں ہے۔ آپ کو صرف ایک سکل اچھی طرح سیکھنی ہے۔</p>
-<h3>پاکستان میں سب سے زیادہ چلنے والی سکلز:</h3>
-<ul>
-<li><b>گرافک ڈیزائننگ:</b> لوگو، پوسٹر، یوٹیوب تھمب نیل بنانا</li>
-<li><b>ویڈیو ایڈیٹنگ:</b> یوٹیوب اور ٹک ٹاک ویڈیو ایڈٹ کرنا</li>
-<li><b>ویب سائٹ بنانا:</b> ورڈ پریس یا HTML سے سادہ ویب سائٹ بنانا</li>
-<li><b>کاپی رائٹنگ:</b> آرٹیکل اور بلاگ لکھنا</li>
-<li><b>ڈیٹا انٹری اور ورچوئل اسسٹنٹ:</b> سب سے آسان کام، نئے لوگوں کے لیے بہترین</li>
-<li><b>سوشل میڈیا مینجمنٹ:</b> فیس بک اور انسٹاگرام پیج چلانا</li>
-</ul>
-<div class="tip"><b>مشورہ:</b> شروع میں صرف ایک سکل چنیں۔ 1 مہینہ اسی کو روز 2 گھنٹے دیں۔ یوٹیوب سے فری میں سیکھیں، پیسے خرچ کرنے کی ضرورت نہیں۔</div>
+  <h2 class="section-title" data-ur="1. Freelancing Kya Hoti Hai?" data-en="1. What Is Freelancing?">1. Freelancing Kya Hoti Hai?</h2>
+  <div class="card">
+    <p data-ur="Freelancing ka matlab hai ke aap kisi company ke mulazim nahi hote, balke aap apni marzi se duniya bhar ke logon ka kaam karte hain aur us ke paise lete hain." data-en="Freelancing means you are not an employee of any company, but you work for people around the world on your own terms and get paid for it.">Freelancing ka matlab hai ke aap kisi company ke mulazim nahi hote, balke aap apni marzi se duniya bhar ke logon ka kaam karte hain aur us ke paise lete hain.</p>
+    <p data-ur="Misaal ke tor par, agar kisi ko logo banwana hai, video edit karwani hai, ya website banwani hai, to woh aap ko paise de ga aur aap us ka kaam kar ke den ge. Aap ghar baithe kaam karen ge aur paise aap ke bank ya JazzCash mein aa jayen ge." data-en="For example, if someone needs a logo, video editing, or a website, he will pay you and you will do his work. You will work from home and money will come to your bank or JazzCash.">Misaal ke tor par, agar kisi ko logo banwana hai, video edit karwani hai, ya website banwani hai, to woh aap ko paise de ga aur aap us ka kaam kar ke den ge. Aap ghar baithe kaam karen ge aur paise aap ke bank ya JazzCash mein aa jayen ge.</p>
+  </div>
 
-<h2>3۔ Fiverr پر اکاؤنٹ کیسے بنائیں؟</h2>
-<p>Fiverr نئے لوگوں کے لیے سب سے آسان پلیٹ فارم ہے۔</p>
-<ul>
-<li>سب سے پہلے Fiverr.com پر جائیں اور Sign Up کریں</li>
-<li>اپنا اصلی نام اور اچھی سی پروفائل تصویر لگائیں</li>
-<li>اپنی سکل کے بارے میں 2-3 لائنوں میں لکھیں، جیسے "میں خوبصورت لوگو بناتا ہوں"</li>
-<li>اب اپنی پہلی Gig بنائیں۔ Gig کا مطلب ہے آپ کی سروس، جیسے "میں آپ کے لیے پروفیشنل لوگو بناؤں گا"</li>
-<li>Gig میں اپنی بنائی ہوئی 3-4 اچھی تصویریں لگائیں</li>
-<li>شروع میں قیمت کم رکھیں، جیسے 5 ڈالر، تاکہ پہلا آرڈر جلدی آئے</li>
-</ul>
+  <h2 class="section-title" data-ur="2. Freelancing Ke Liye Kaun Si Skill Seekhen?" data-en="2. Which Skill To Learn For Freelancing?">2. Freelancing Ke Liye Kaun Si Skill Seekhen?</h2>
+  <div class="card">
+    <p data-ur="Shuru mein sab se bari ghalti ye hoti hai ke log sochte hain ke un ko sab kuch aana chahiye. Aisa nahi hai. Aap ko sirf ek skill achi tarah seekhni hai." data-en="In the beginning the biggest mistake is that people think they should know everything. It is not like that. You have to learn only one skill properly.">Shuru mein sab se bari ghalti ye hoti hai ke log sochte hain ke un ko sab kuch aana chahiye. Aisa nahi hai. Aap ko sirf ek skill achi tarah seekhni hai.</p>
+    <h3 data-ur="Pakistan Mein Sab Se Zyada Chalne Wali Skills:" data-en="Most Demanded Skills In Pakistan:">Pakistan Mein Sab Se Zyada Chalne Wali Skills:</h3>
+    <ul>
+      <li data-ur="Graphic Designing: Logo, poster, YouTube thumbnail banana" data-en="Graphic Designing: Making logo, poster, YouTube thumbnail">Graphic Designing: Logo, poster, YouTube thumbnail banana</li>
+      <li data-ur="Video Editing: YouTube aur TikTok video edit karna" data-en="Video Editing: Editing YouTube and TikTok videos">Video Editing: YouTube aur TikTok video edit karna</li>
+      <li data-ur="Website Banana: WordPress ya HTML se saadha website banana" data-en="Website Making: Making simple website with WordPress or HTML">Website Banana: WordPress ya HTML se saadha website banana</li>
+      <li data-ur="Copywriting: Article aur blog likhna" data-en="Copywriting: Writing articles and blogs">Copywriting: Article aur blog likhna</li>
+      <li data-ur="Data Entry Aur Virtual Assistant: Sab se aasan kaam, naye logon ke liye behtareen" data-en="Data Entry And Virtual Assistant: Easiest work, best for new people">Data Entry Aur Virtual Assistant: Sab se aasan kaam, naye logon ke liye behtareen</li>
+      <li data-ur="Social Media Management: Facebook aur Instagram page chalana" data-en="Social Media Management: Running Facebook and Instagram pages">Social Media Management: Facebook aur Instagram page chalana</li>
+    </ul>
+  </div>
+  <div class="tip" id="tip1">Mashwara: Shuru mein sirf ek skill chunen. 1 mahina isi ko roz 2 ghante den. YouTube se free mein seekhen, paise kharch karne ki zaroorat nahi.</div>
 
-<h2>4۔ Upwork پر کام کیسے ملتا ہے؟</h2>
-<p>Upwork پر آپ کو خود لوگوں کی پوسٹ پر اپلائی کرنا پڑتا ہے۔ روزانہ 5-10 جابز پر اچھا سا میسج لکھ کر بھیجیں۔</p>
-<p>میسج میں کبھی بھی یہ نہ لکھیں کہ "مجھے کام دے دیں"۔ بلکہ یہ لکھیں کہ "میں آپ کا یہ کام اس طرح کروں گا، اور 2 دن میں مکمل کر دوں گا۔" کلائنٹ کو ہمیشہ حل بتائیں، بھیک نہ مانگیں۔</p>
+  <h2 class="section-title" data-ur="3. Fiverr Par Account Kaise Banayen?" data-en="3. How To Create Account On Fiverr?">3. Fiverr Par Account Kaise Banayen?</h2>
+  <div class="card">
+    <p data-ur="Fiverr naye logon ke liye sab se aasan platform hai." data-en="Fiverr is the easiest platform for new people.">Fiverr naye logon ke liye sab se aasan platform hai.</p>
+    <ul>
+      <li data-ur="Sab se pehle Fiverr.com par jayen aur Sign Up karen" data-en="First go to Fiverr.com and Sign Up">Sab se pehle Fiverr.com par jayen aur Sign Up karen</li>
+      <li data-ur="Apna asli naam aur achi si profile tasveer lagayen" data-en="Use your real name and a good profile photo">Apna asli naam aur achi si profile tasveer lagayen</li>
+      <li data-ur="Apni skill ke bare mein 2-3 linon mein likhen, jaise 'Mein khoobsurat logo banata hoon'" data-en="Write 2-3 lines about your skill, like 'I make beautiful logos'">Apni skill ke bare mein 2-3 linon mein likhen, jaise 'Mein khoobsurat logo banata hoon'</li>
+      <li data-ur="Ab apni pehli Gig banayen. Gig ka matlab hai aap ki service, jaise 'Mein aap ke liye professional logo banaon ga'" data-en="Now create your first Gig. Gig means your service, like 'I will make a professional logo for you'">Ab apni pehli Gig banayen. Gig ka matlab hai aap ki service, jaise 'Mein aap ke liye professional logo banaon ga'</li>
+      <li data-ur="Gig mein apni banai hui 3-4 achi tasveeren lagayen" data-en="Add 3-4 good images you made in the Gig">Gig mein apni banai hui 3-4 achi tasveeren lagayen</li>
+      <li data-ur="Shuru mein qeemat kam rakhen, jaise 5 Dollar, taake pehla order jaldi aaye" data-en="Keep price low in the beginning, like 5 Dollars, so first order comes quickly">Shuru mein qeemat kam rakhen, jaise 5 Dollar, taake pehla order jaldi aaye</li>
+    </ul>
+  </div>
 
-<h2>5۔ پہلا آرڈر کیسے لیں؟ - سب سے اہم بات</h2>
-<p>پہلا آرڈر آنا سب سے مشکل ہوتا ہے، لیکن ایک بار آ گیا تو پھر کام آتا ہی رہتا ہے۔</p>
-<ul>
-<li>شروع میں اپنے دوستوں اور رشتے داروں کا کام فری یا کم پیسوں میں کر کے اپنا پورٹ فولیو بنائیں</li>
-<li>اپنے کام کی تصویریں فیس بک اور واٹس ایپ اسٹیٹس پر لگائیں</li>
-<li>کلائنٹ کو جواب جلدی دیں، 5 منٹ کے اندر جواب دینے والے کو کام زیادہ ملتا ہے</li>
-<li>کام وقت پر مکمل کریں، چاہے رات کو جاگنا پڑے</li>
-</ul>
+  <h2 class="section-title" data-ur="4. Upwork Par Kaam Kaise Milta Hai?" data-en="4. How To Get Work On Upwork?">4. Upwork Par Kaam Kaise Milta Hai?</h2>
+  <div class="card">
+    <p data-ur="Upwork par aap ko khud logon ki post par apply karna parta hai. Rozana 5-10 jobs par acha sa message likh kar bhejen." data-en="On Upwork you have to apply yourself on people's job posts. Daily send a good message on 5-10 jobs.">Upwork par aap ko khud logon ki post par apply karna parta hai. Rozana 5-10 jobs par acha sa message likh kar bhejen.</p>
+    <p data-ur="Message mein kabhi bhi ye na likhen ke 'Mujhe kaam de den'. Balke ye likhen ke 'Mein aap ka ye kaam is tarah karoon ga, aur 2 din mein mukammal kar doon ga.' Client ko hamesha hal batayen, bheek na mangen." data-en="Never write in the message 'Give me work'. Instead write 'I will do your work like this, and complete it in 2 days.' Always tell the client the solution, do not beg.">Message mein kabhi bhi ye na likhen ke 'Mujhe kaam de den'. Balke ye likhen ke 'Mein aap ka ye kaam is tarah karoon ga, aur 2 din mein mukammal kar doon ga.' Client ko hamesha hal batayen, bheek na mangen.</p>
+  </div>
 
-<h2>6۔ پیسے کیسے نکلوائیں؟</h2>
-<p>پاکستان میں فری لانسرز زیادہ تر Payoneer یا PayPal کے ذریعے پیسے نکلواتے ہیں۔ Fiverr سے آپ پیسے Payoneer میں لے کر پھر اپنے بینک اکاؤنٹ یا جاز کیش میں لے سکتے ہیں۔ شروع میں آپ کو اس کی فکر کرنے کی ضرورت نہیں، پہلے سکل سیکھیں اور آرڈر لیں، پیسے نکالنے کا طریقہ بعد میں خود سمجھ آ جائے گا۔</p>
+  <h2 class="section-title" data-ur="5. Pehla Order Kaise Len? - Sab Se Ahem Baat" data-en="5. How To Get First Order? - Most Important Thing">5. Pehla Order Kaise Len? - Sab Se Ahem Baat</h2>
+  <div class="card">
+    <p data-ur="Pehla order aana sab se mushkil hota hai, lekin ek dafa aa gaya to phir kaam aata hi rehta hai." data-en="Getting the first order is the hardest, but once it comes, work keeps coming.">Pehla order aana sab se mushkil hota hai, lekin ek dafa aa gaya to phir kaam aata hi rehta hai.</p>
+    <ul>
+      <li data-ur="Shuru mein apne doston aur rishtedaron ka kaam free ya kam paison mein kar ke apna portfolio banayen" data-en="In the beginning, make your portfolio by doing work for friends and relatives for free or low price">Shuru mein apne doston aur rishtedaron ka kaam free ya kam paison mein kar ke apna portfolio banayen</li>
+      <li data-ur="Apne kaam ki tasveeren Facebook aur WhatsApp Status par lagayen" data-en="Post photos of your work on Facebook and WhatsApp Status">Apne kaam ki tasveeren Facebook aur WhatsApp Status par lagayen</li>
+      <li data-ur="Client ko jawab jaldi den, 5 minute ke andar jawab dene wale ko kaam zyada milta hai" data-en="Reply to client quickly, the one who replies within 5 minutes gets more work">Client ko jawab jaldi den, 5 minute ke andar jawab dene wale ko kaam zyada milta hai</li>
+      <li data-ur="Kaam waqt par mukammal karen, chahe raat ko jaagna pare" data-en="Complete work on time, even if you have to stay awake at night">Kaam waqt par mukammal karen, chahe raat ko jaagna pare</li>
+    </ul>
+  </div>
 
-<h2>7۔ فری لانسنگ میں کامیاب ہونے کے 5 اصول</h2>
-<ul>
-<li><b>روز کا کام:</b> روز کم از کم 1 گھنٹہ سیکھنے اور 1 گھنٹہ کلائنٹ ڈھونڈنے میں لگائیں</li>
-<li><b>ایمانداری:</b> جو کام نہیں آتا، وہ نہ لیں۔ جو لیا ہے، وہ پورا کریں</li>
-<li><b>صبر:</b> پہلے 1-2 مہینے میں آرڈر نہ بھی آئے تو ہار نہ مانیں</li>
-<li><b>اچھی بات چیت:</b> کلائنٹ سے اچھے طریقے سے بات کریں، انگلش کمزور ہے تو گوگل ٹرانسلیٹ استعمال کریں</li>
-<li><b>سیکھتے رہیں:</b> ہر مہینے اپنی سکل میں کچھ نیا سیکھیں</li>
-</ul>
+  <h2 class="section-title" data-ur="6. Paise Kaise Nikalwayen?" data-en="6. How To Withdraw Money?">6. Paise Kaise Nikalwayen?</h2>
+  <div class="card"><p data-ur="Pakistan mein freelancers zyada tar Payoneer ya PayPal ke zariye paise nikalwate hain. Fiverr se aap paise Payoneer mein le kar phir apne bank account ya JazzCash mein le sakte hain. Shuru mein aap ko is ki fikar karne ki zaroorat nahi, pehle skill seekhen aur order len, paise nikalne ka tareeqa baad mein khud samajh aa jaye ga." data-en="In Pakistan, freelancers mostly withdraw money through Payoneer or PayPal. From Fiverr you can take money to Payoneer and then to your bank account or JazzCash. In the beginning you do not need to worry about this, first learn skill and take order, the withdrawal method will be understood later by itself.">Pakistan mein freelancers zyada tar Payoneer ya PayPal ke zariye paise nikalwate hain. Fiverr se aap paise Payoneer mein le kar phir apne bank account ya JazzCash mein le sakte hain. Shuru mein aap ko is ki fikar karne ki zaroorat nahi, pehle skill seekhen aur order len, paise nikalne ka tareeqa baad mein khud samajh aa jaye ga.</p></div>
 
-<div class="tip"><b>آخری بات:</b> فری لانسنگ کوئی جادو نہیں ہے کہ آج شروع کریں اور کل لاکھ پتی بن جائیں۔ لیکن اگر آپ 3 مہینے لگاتار محنت کریں گے تو آپ کی کمائی شروع ہو جائے گی۔ آج ہی ایک سکل چنیں اور سیکھنا شروع کر دیں۔</div>
+  <h2 class="section-title" data-ur="7. Freelancing Mein Kamyab Hone Ke 5 Usool" data-en="7. 5 Rules To Succeed In Freelancing">7. Freelancing Mein Kamyab Hone Ke 5 Usool</h2>
+  <div class="card">
+    <ul>
+      <li data-ur="Roz ka kaam: Roz kam az kam 1 ghanta seekhne aur 1 ghanta client dhoondhne mein lagayen" data-en="Daily work: Daily spend at least 1 hour learning and 1 hour finding clients">Roz ka kaam: Roz kam az kam 1 ghanta seekhne aur 1 ghanta client dhoondhne mein lagayen</li>
+      <li data-ur="Imaandari: Jo kaam nahi aata, woh na len. Jo liya hai, woh poora karen" data-en="Honesty: Do not take work you do not know. Complete the work you took">Imaandari: Jo kaam nahi aata, woh na len. Jo liya hai, woh poora karen</li>
+      <li data-ur="Sabar: Pehle 1-2 mahine mein order na bhi aaye to haar na manen" data-en="Patience: Even if order does not come in first 1-2 months, do not give up">Sabar: Pehle 1-2 mahine mein order na bhi aaye to haar na manen</li>
+      <li data-ur="Achi baat cheet: Client se ache tareeqe se baat karen, English kamzor hai to Google Translate istemal karen" data-en="Good communication: Talk to client nicely, if English is weak use Google Translate">Achi baat cheet: Client se ache tareeqe se baat karen, English kamzor hai to Google Translate istemal karen</li>
+      <li data-ur="Seekhte rahen: Har mahine apni skill mein kuch naya seekhen" data-en="Keep learning: Learn something new in your skill every month">Seekhte rahen: Har mahine apni skill mein kuch naya seekhen</li>
+    </ul>
+  </div>
+  <div class="notice" id="noticeText">Aakhri Baat: Freelancing koi jadoo nahi hai ke aaj shuru karen aur kal lakh pati ban jayen. Lekin agar aap 3 mahine lagatar mehnat karen ge to aap ki kamai shuru ho jaye gi. Aaj hi ek skill chunen aur seekhna shuru kar den.</div>
+</section>
 
-<a class="back" href="../index.html">فری لانسنگ پیج پر واپس جائیں</a>
-</div>
-</body>
-</html>
+  <h2 class="section-title" id="relatedTitle">Mutalqa Mozuhat</h2>
+  <div class="related">
+    <a href="../../Chota-karobar/"><h3 data-ur="Chhota Karobar →" data-en="Small Business →">Chhota Karobar →</h3><p data-ur="Ghar baithe chhota karobar kaise shuru karen." data-en="How to start small business from home.">Ghar baithe chhota karobar kaise shuru karen.</p></a>
+    <a href="../../Online-hunar/"><h3 data-ur="Online Hunar →" data-en="Online Skills →">Online Hunar →</h3><p data-ur="Computer aur digital maharaton ke bunyadi tareeqe." data-en="Basics of computers and digital skills.">Computer aur digital maharaton ke bunyadi tareeqe.</p></a>
+    <a href="../../AI-se-kamai/"><h3 data-ur="AI Se Kamai →" data-en="Earning With AI →">AI Se Kamai →</h3><p data-ur="AI tools se kaam aur kamai ke tareeqe." data-en="Ways to work and earn with AI tools.">AI tools se kaam aur kamai ke tareeqe.</p></a>
+  </div>
+
+  <section id="faq" style="margin-top:35px">
+    <h2 class="section-title" id="faqTitle">Aksar Puche Jane Wale Sawalat</h2>
+    <div class="faq-item"><h3 data-ur="Freelancing ke liye kitne paise chahiye?" data-en="How much money is needed for freelancing?">Freelancing ke liye kitne paise chahiye?</h3><p data-ur="Kuch bhi nahi. Aap ko sirf mobile ya laptop aur internet chahiye. Skill aap YouTube se free mein seekh sakte hain." data-en="Nothing. You only need mobile or laptop and internet. You can learn skill free from YouTube.">Kuch bhi nahi. Aap ko sirf mobile ya laptop aur internet chahiye. Skill aap YouTube se free mein seekh sakte hain.</p></div>
+    <div class="faq-item"><h3 data

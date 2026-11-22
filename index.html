@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Online Success — Learn, Work, Earn. Roman Urdu aur English mein online seekhne, freelancing aur kaam ke mawaqay ki rehnumai.">
+  <link rel="canonical" href="https://www.onlinesuccess.com/">
   <title>Online Success | Learn • Work • Earn</title>
   <style>
     :root{--navy:#102b50;--blue:#1769aa;--gold:#f2b84b;--ink:#172235;--muted:#64748b;--paper:#f4f7fb;--white:#fff}
@@ -29,6 +30,11 @@
     .english{direction:ltr;text-align:left}
     footer{background:var(--navy);color:#dce8f7;text-align:center;padding:22px 5%;font-size:.92rem}
     footer a{color:#ffe3a3}
+    .footer-links{display:flex;gap:16px;justify-content:center;flex-wrap:wrap;margin:10px 0}
+    .footer-links a{color:#dce8f7;text-decoration:none}
+    .faq-item{background:white;border:1px solid #e6edf5;border-radius:12px;padding:16px 18px;margin-bottom:12px}
+    .faq-item h3{margin:0 0 6px;color:var(--navy);font-size:1.05rem}
+    .faq-item p{margin:0;color:#536176}
     [hidden]{display:none!important}
     @media(max-width:600px){header{justify-content:center;text-align:center}nav{justify-content:center}.hero{padding:42px 5%}}
   </style>
@@ -114,6 +120,31 @@
 
   <div class="notice" id="noticeText">Ahem Ehtiyat: Kisi bhi online kaam ke liye pehle se raqam, OTP, password ya bank ki khufiya maloomat mangne walon se mohtat rahen.</div>
 
+  <section id="faq" style="margin-top:38px">
+    <h2 class="section-title" id="faqTitle">Aksar Puche Jane Wale Sawalat</h2>
+
+    <div class="faq-item">
+      <h3 data-ur="Online Success kya hai?" data-en="What is Online Success?">Online Success kya hai?</h3>
+      <p data-ur="Ye aik maloomati platform hai jahan aap online hunar, freelancing, nokriyon aur AI ke bare mein aasan rehnumai hasil kar sakte hain." data-en="It is an information platform where you can get simple guidance about online skills, freelancing, jobs and AI.">Ye aik maloomati platform hai jahan aap online hunar, freelancing, nokriyon aur AI ke bare mein aasan rehnumai hasil kar sakte hain.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3 data-ur="Kya yahan se kamai ki guarantee hai?" data-en="Is income guaranteed here?">Kya yahan se kamai ki guarantee hai?</h3>
+      <p data-ur="Nahi, hum kisi aamdani ki guarantee nahi dete. Hum sirf seekhne aur sahi mawaqay samajhne mein madad karte hain." data-en="No, we do not guarantee any income. We only help you learn and understand legitimate opportunities.">Nahi, hum kisi aamdani ki guarantee nahi dete. Hum sirf seekhne aur sahi mawaqay samajhne mein madad karte hain.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3 data-ur="Shuru karne ke liye kya chahiye?" data-en="What do I need to get started?">Shuru karne ke liye kya chahiye?</h3>
+      <p data-ur="Sirf aik mobile ya computer, internet aur rozana thora waqt. Shuru mein aik hi hunar par tawajja dein." data-en="Just a mobile or computer, internet and a little time daily. Focus on one skill in the beginning.">Sirf aik mobile ya computer, internet aur rozana thora waqt. Shuru mein aik hi hunar par tawajja dein.</p>
+    </div>
+
+    <div class="faq-item">
+      <h3 data-ur="Online dhoke se kaise bachen?" data-en="How to avoid online scams?">Online dhoke se kaise bachen?</h3>
+      <p data-ur="Kisi ko OTP, password ya bank ki tafseel na dein aur jo kaam pehle paise mange us se bachen. Mukammal rehnumai ke liye Online Hifazat wala section parhen." data-en="Never share your OTP, password or bank details, and avoid any job that asks for upfront payment. Read the Online Safety section for complete guidance.">Kisi ko OTP, password ya bank ki tafseel na dein aur jo kaam pehle paise mange us se bachen. Mukammal rehnumai ke liye Online Hifazat wala section parhen.</p>
+    </div>
+
+  </section>
+
   <section id="contact" style="margin-top:35px">
     <h2 class="section-title" id="contactTitle">Rabta Karen</h2>
     <div class="card">
@@ -127,6 +158,16 @@
 <footer>
   <div>© <span id="year"></span> Online Success. All rights reserved.</div>
   <div>Learn • Work • Earn</div>
+  <div class="footer-links">
+    <a href="#home" data-ur="Home" data-en="Home">Home</a>
+    <a href="#topics" data-ur="Mozuhat" data-en="Topics">Mozuhat</a>
+    <a href="#about" data-ur="Hamare Bare Mein" data-en="About">Hamare Bare Mein</a>
+    <a href="#faq" data-ur="FAQs" data-en="FAQs">FAQs</a>
+    <a href="#contact" data-ur="Rabta" data-en="Contact">Rabta</a>
+    <a href="privacy-policy.html" data-ur="Privacy Policy" data-en="Privacy Policy">Privacy Policy</a>
+    <a href="terms.html" data-ur="Terms" data-en="Terms">Terms</a>
+  </div>
+  <div style="font-size:.85rem;color:#aebfda">Email: your-email@example.com</div>
 </footer>
 
 <script>
@@ -135,13 +176,15 @@
       topicTitle:"Aap Yahan Kya Seekh Sakte Hain?", aboutTitle:"Hamare Bare Mein",
       aboutText:"Online Success aik maloomati platform hai jis ka maqsad logon ko seekhne, digital maharaten behtar banane aur jaiz kaam ke mawaqay samajhne mein madad dena hai. Hum kisi aamdani ki zamanat nahi dete; har mawaqay ki sharait aur saakh khud bhi zaroor janchen.",
       noticeText:"Ahem Ehtiyat: Kisi bhi online kaam ke liye pehle se raqam, OTP, password ya bank ki khufiya maloomat mangne walon se mohtat rahen.",
-      contactTitle:"Rabta Karen", contactText:"Apna rabta email yahan shamil karen."
+      contactTitle:"Rabta Karen", contactText:"Apna rabta email yahan shamil karen.",
+      faqTitle:"Aksar Puche Jane Wale Sawalat"
     },
     en: {
       topicTitle:"What can you learn here?", aboutTitle:"About Us",
       aboutText:"Online Success is an information platform designed to help people learn, improve digital skills and understand legitimate work opportunities. We do not guarantee income; always check the terms and credibility of each opportunity.",
       noticeText:"Safety note: Be cautious of anyone asking for upfront payments, OTPs, passwords or confidential banking information for an online job.",
-      contactTitle:"Contact Us", contactText:"Add your contact email address here."
+      contactTitle:"Contact Us", contactText:"Add your contact email address here.",
+      faqTitle:"Frequently Asked Questions"
     }
   };
   let language = "ur";

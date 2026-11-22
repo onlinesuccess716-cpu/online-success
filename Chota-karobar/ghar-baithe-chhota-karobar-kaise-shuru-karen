@@ -1,125 +1,120 @@
 <!DOCTYPE html>
-<html lang="ur" dir="rtl">
+<html lang="ur" dir="ltr">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>گھر بیٹھے چھوٹا کاروبار کیسے شروع کریں؟ کم پیسوں میں مکمل رہنمائی | Online Success</title>
-<meta name="description" content="گھر بیٹھے چھوٹا کاروبار کیسے شروع کریں؟ کم سرمایہ، آن لائن کاروبار، گاہکوں کا اعتماد اور منافع بڑھانے کی مکمل اردو رہنمائی۔">
-<style>
-body{margin:0;font-family:system-ui,Arial,sans-serif;background:#f4f7fb;color:#172235;line-height:2}
-header{background:linear-gradient(120deg,#102b50,#1769aa);color:#fff;padding:16px 5%;display:flex;justify-content:space-between;align-items:center}
-header a{color:#fff;text-decoration:none;font-weight:700}
-article{max-width:880px;margin:25px auto;background:#fff;padding:30px 28px;border-radius:14px;box-shadow:0 5px 20px #102b5010}
-h1{color:#102b50;font-size:30px;line-height:1.5}
-h2{color:#1769aa;font-size:23px;margin-top:32px;border-bottom:2px solid #eef2f7;padding-bottom:6px}
-h3{color:#102b50}
-p{font-size:17.5px;color:#333}
-ul{font-size:17px}
-li{margin-bottom:8px}
-.box{background:#fff8e9;border-right:4px solid #f2b84b;padding:15px 18px;border-radius:9px;margin:20px 0}
-.tip{background:#e7f1fc;border-right:4px solid #1769aa;padding:15px 18px;border-radius:9px;margin:20px 0}
-.back{display:inline-block;background:#1769aa;color:#fff!important;text-decoration:none;padding:11px 18px;border-radius:9px;margin-top:20px}
-footer{text-align:center;padding:20px;color:#64748b}
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Ghar baithe chhota karobar kaise shuru karen? Kam sarmaya, online karobar, gahakon ka aitmaad aur munafa barhane ki mukammal rehnumai - Online Success.">
+  <link rel="canonical" href="https://www.onlinesuccess.com/Chota-karobar/ghar-baithe-chhota-karobar-kaise-shuru-karen/">
+  <title>Ghar Baithe Chhota Karobar Kaise Shuru Karen? Kam Paison Mein Mukammal Rehnumai | Online Success</title>
+  <style>
+    :root{--navy:#102b50;--blue:#1769aa;--gold:#f2b84b;--ink:#172235;--muted:#64748b;--paper:#f4f7fb;--white:#fff}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif;background:var(--paper);color:var(--ink);line-height:1.7}
+    header{background:linear-gradient(120deg,var(--navy),var(--blue));color:white;padding:18px 5%;display:flex;justify-content:space-between;align-items:center;gap:15px;flex-wrap:wrap}
+    .brand{font-size:1.35rem;font-weight:800;letter-spacing:.4px}.tag{color:#ffe3a3;font-size:.9rem}
+    nav{display:flex;gap:14px;flex-wrap:wrap}nav a{color:white;text-decoration:none;font-size:.94rem}
+    .hero{padding:48px 5%;background:linear-gradient(120deg,#e7f1fc,#fff);text-align:center}
+    .hero h1{font-size:clamp(1.9rem,5vw,2.8rem);color:var(--navy);margin:0 0 8px}
+    .hero p{max-width:720px;margin:8px auto;color:#42536a}
+    .btn{display:inline-block;background:var(--blue);color:#fff;text-decoration:none;padding:11px 20px;border-radius:9px;margin:12px 5px;font-weight:700}
+    main{max-width:900px;margin:auto;padding:28px 5% 55px}
+    .section-title{color:var(--navy);margin:28px 0 12px}
+    .card{background:white;padding:20px;border-radius:14px;box-shadow:0 5px 18px #102b5010;border:1px solid #e6edf5;margin-bottom:16px}
+    .card h2,.card h3{margin:0 0 8px;color:var(--blue)}
+    .card p{margin:0 0 10px;color:#536176}
+    .card p:last-child{margin-bottom:0}
+    .notice{margin-top:25px;padding:18px;border-right:4px solid var(--gold);background:#fff8e9;border-radius:9px}
+    .tip{background:#e7f1fc;border-right:4px solid #1769aa;padding:15px 18px;border-radius:9px;margin:20px 0;color:#34495e}
+    .related{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-top:14px}
+    .related a{background:white;padding:16px;border-radius:12px;border:1px solid #e6edf5;text-decoration:none;display:block}
+    .related a h3{margin:0 0 6px;color:var(--blue);font-size:1rem}
+    .related a p{margin:0;color:#536176;font-size:.95rem}
+    .faq-item{background:white;border:1px solid #e6edf5;border-radius:12px;padding:16px 18px;margin-bottom:12px}
+    .faq-item h3{margin:0 0 6px;color:var(--navy);font-size:1.05rem}
+    .faq-item p{margin:0;color:#536176}
+    .lang{border:1px solid #ffffff80;color:white;background:transparent;border-radius:8px;padding:8px 12px;cursor:pointer}
+    .english{direction:ltr;text-align:left}
+    footer{background:var(--navy);color:#dce8f7;text-align:center;padding:22px 5%;font-size:.92rem}
+    .footer-links{display:flex;gap:16px;justify-content:center;flex-wrap:wrap;margin:10px 0}
+    .footer-links a{color:#dce8f7;text-decoration:none}
+    .back{display:block;text-align:center;margin-top:20px;background:#1769aa;color:#fff!important;padding:12px;border-radius:10px;text-decoration:none;font-weight:700}
+    [hidden]{display:none!important}
+    @media(max-width:600px){header{justify-content:center;text-align:center}nav{justify-content:center}}
+  </style>
 </head>
 <body>
 <header>
-<a href="../index.html">← Online Success</a>
-<a href="../index.html">ہوم پیج</a>
+  <div><div class="brand">ONLINE SUCCESS</div><div class="tag">Learn • Work • Earn</div></div>
+  <nav aria-label="Main navigation">
+    <a href="../../index.html" data-ur="Home" data-en="Home">Home</a>
+    <a href="../../index.html#topics" data-ur="Mozuhat" data-en="Topics">Mozuhat</a>
+    <a href="../../index.html#about" data-ur="Hamare Bare Mein" data-en="About">Hamare Bare Mein</a>
+    <a href="../../index.html#contact" data-ur="Rabta" data-en="Contact">Rabta</a>
+  </nav>
+  <button class="lang" id="langBtn" type="button">English</button>
 </header>
 
-<article>
-<p style="color:#64748b;font-size:14px">کیٹگری: چھوٹا کاروبار | اپ ڈیٹ: 2026</p>
-<h1>گھر بیٹھے چھوٹا کاروبار کیسے شروع کریں؟ کم پیسوں میں مکمل رہنمائی</h1>
+<section class="hero">
+  <div id="urHero" lang="ur">
+    <h1>Ghar Baithe Chhota Karobar Kaise Shuru Karen?</h1>
+    <p>Category: Chhota Karobar | Update: 2026<br>Kam paison mein, ghar baithe apna karobar shuru karne ki mukammal rehnumai. 10 behtareen karobar, gahak talash karne ka tareeqa aur munafa barhane ke usool.</p>
+    <a class="btn" href="#article">Article Parhen</a>
+    <a class="btn" href="#faq" style="background:#fff;color:#1769aa">FAQs Dekhen</a>
+  </div>
+  <div id="enHero" class="english" lang="en" hidden>
+    <h1>How To Start A Small Business From Home?</h1>
+    <p>Category: Small Business | Updated: 2026<br>Complete guidance to start your business from home with little money. 10 best businesses, how to find customers and how to increase profit.</p>
+    <a class="btn" href="#article">Read Article</a>
+    <a class="btn" href="#faq" style="background:#fff;color:#1769aa">See FAQs</a>
+  </div>
+</section>
 
-<p>آج کے دور میں ہر شخص چاہتا ہے کہ اس کی اپنی آمدنی ہو، وہ کسی کا محتاج نہ ہو اور اپنے گھر کے اخراجات خود پورے کر سکے۔ مہنگائی دن بدن بڑھ رہی ہے، نوکریاں کم ہو رہی ہیں اور ہر گھر میں یہ سوال پیدا ہو رہا ہے کہ گھر بیٹھے چھوٹا کاروبار کیسے شروع کریں؟ اگر آپ بھی یہ سوچ رہے ہیں تو آپ بالکل صحیح جگہ پر آئے ہیں۔ اس آرٹیکل میں ہم آپ کو بہت آسان زبان میں بتائیں گے کہ آپ کم پیسوں میں، بغیر کسی بڑی دکان کے، اپنے گھر سے ہی اپنا کاروبار کیسے شروع کر سکتے ہیں۔</p>
-<p>بہت سے لوگ یہ سمجھتے ہیں کہ کاروبار شروع کرنے کے لیے لاکھوں روپے چاہیے ہوتے ہیں، بڑی دکان چاہیے ہوتی ہے اور بہت زیادہ تعلیم چاہیے ہوتی ہے۔ یہ بات بالکل غلط ہے۔ اصل میں کاروبار کے لیے سب سے زیادہ ضروری چیز آپ کا حوصلہ، آپ کی محنت اور آپ کا درست منصوبہ ہے۔ اگر آپ کے پاس یہ تین چیزیں ہیں تو آپ صرف 5 ہزار یا 10 ہزار روپے سے بھی کاروبار شروع کر سکتے ہیں۔ آج ہم ایسے ہی کئی کاروبار کے بارے میں بات کریں گے جو آپ آج سے ہی شروع کر سکتے ہیں۔</p>
-<p>اس آرٹیکل کو آخر تک ضرور پڑھیں، کیونکہ آخر میں ہم آپ کو وہ 5 غلطیاں بھی بتائیں گے جو اکثر نئے لوگ کاروبار میں کرتے ہیں اور جس کی وجہ سے ان کا کاروبار ناکام ہو جاتا ہے۔ اگر آپ ان غلطیوں سے بچ گئے تو آپ کا کاروبار ان شاء اللہ ضرور کامیاب ہوگا۔</p>
+<main>
+<section id="article">
+  <div class="card">
+    <p data-ur="Aaj ke daur mein har shakhs chahta hai ke us ki apni aamdani ho, woh kisi ka mohtaaj na ho aur apne ghar ke kharchay khud poore kar sake. Mehngai din ba din barh rahi hai, naukriyan kam ho rahi hain aur har ghar mein ye sawal paida ho raha hai ke ghar baithe chhota karobar kaise shuru karen? Agar aap bhi ye soch rahe hain to aap bilkul sahi jagah par aaye hain." data-en="In today's world, everyone wants their own income, to not depend on anyone, and to cover their household expenses themselves. Inflation is rising day by day, jobs are decreasing, and in every home this question arises: how to start a small business from home? If you are also thinking this, you have come to the right place.">Aaj ke daur mein har shakhs chahta hai ke us ki apni aamdani ho, woh kisi ka mohtaaj na ho aur apne ghar ke kharchay khud poore kar sake. Mehngai din ba din barh rahi hai, naukriyan kam ho rahi hain aur har ghar mein ye sawal paida ho raha hai ke ghar baithe chhota karobar kaise shuru karen? Agar aap bhi ye soch rahe hain to aap bilkul sahi jagah par aaye hain.</p>
+    <p data-ur="Bohat se log samajhte hain ke karobar ke liye lakhon rupay chahiye, bari dukaan chahiye aur bohat zyada taleem chahiye. Ye baat bilkul ghalat hai. Asal mein karobar ke liye sab se zyada zaroori cheez aap ka hosla, aap ki mehnat aur aap ka durust mansooba hai. Agar ye teen cheezen hain to aap sirf 5,000 ya 10,000 rupay se bhi karobar shuru kar sakte hain." data-en="Many people think business needs lakhs of rupees, a big shop and a lot of education. This is completely wrong. In reality, the most important things for business are your courage, your hard work and a correct plan. If you have these three things, you can start a business with just 5,000 or 10,000 rupees.">Bohat se log samajhte hain ke karobar ke liye lakhon rupay chahiye, bari dukaan chahiye aur bohat zyada taleem chahiye. Ye baat bilkul ghalat hai. Asal mein karobar ke liye sab se zyada zaroori cheez aap ka hosla, aap ki mehnat aur aap ka durust mansooba hai. Agar ye teen cheezen hain to aap sirf 5,000 ya 10,000 rupay se bhi karobar shuru kar sakte hain.</p>
+    <p data-ur="Is article ko aakhir tak zaroor parhen, kyun ke aakhir mein hum aap ko woh 5 ghaltiyan bhi batayen ge jo aksar naye log karobar mein karte hain aur jis ki wajah se un ka karobar nakaam ho jata hai." data-en="Read this article till the end, because at the end we will also tell you the 5 mistakes that new people often make in business and because of which their business fails.">Is article ko aakhir tak zaroor parhen, kyun ke aakhir mein hum aap ko woh 5 ghaltiyan bhi batayen ge jo aksar naye log karobar mein karte hain aur jis ki wajah se un ka karobar nakaam ho jata hai.</p>
+  </div>
 
-<h2>1۔ سب سے پہلے یہ فیصلہ کریں کہ آپ کو کیا آتا ہے؟</h2>
-<p>کاروبار شروع کرنے سے پہلے سب سے پہلا قدم یہ ہے کہ آپ خود سے پوچھیں کہ مجھے کیا آتا ہے؟ ہر انسان کو اللہ نے کوئی نہ کوئی ہنر ضرور دیا ہوتا ہے۔ کسی کو کھانا اچھا بنانا آتا ہے، کسی کو سلائی آتی ہے، کسی کو موبائل ٹھیک کرنا آتا ہے، کسی کو بولنا اچھا آتا ہے اور کسی کو کمپیوٹر کا کام آتا ہے۔ آپ کا کاروبار ہمیشہ آپ کے ہنر کے مطابق ہونا چاہیے۔</p>
-<p>مثال کے طور پر اگر آپ کو کھانا بنانا اچھا آتا ہے تو آپ گھر سے ٹفن سروس شروع کر سکتے ہیں۔ اگر آپ کو کپڑے سلنے آتے ہیں تو آپ گھر میں بوتیک کا کام شروع کر سکتی ہیں۔ اگر آپ کو بچوں کو پڑھانا اچھا لگتا ہے تو آپ ٹیوشن شروع کر سکتے ہیں۔ یاد رکھیں، جس کام میں آپ کو دلچسپی ہوگی، اس کام میں آپ زیادہ محنت کریں گے اور زیادہ جلدی کامیاب ہوں گے۔</p>
-<p>ایک کاغذ لیں اور اس پر اپنی 5 خوبیاں لکھیں۔ پھر دیکھیں کہ ان میں سے کس خوبی سے آپ پیسے کما سکتے ہیں۔ یہی آپ کے کاروبار کی بنیاد ہوگی۔ کبھی بھی دوسروں کو دیکھ کر کاروبار نہ شروع کریں۔ اگر آپ کے محلے والے نے کریانہ کی دکان کھولی ہے تو ضروری نہیں کہ آپ بھی وہی کھولیں۔ آپ وہ کام کریں جو آپ کو آتا ہے۔</p>
+  <h2 class="section-title" data-ur="1. Sab Se Pehle Ye Faisla Karen Ke Aap Ko Kya Aata Hai?" data-en="1. First Decide What You Are Good At?">1. Sab Se Pehle Ye Faisla Karen Ke Aap Ko Kya Aata Hai?</h2>
+  <div class="card">
+    <p data-ur="Karobar shuru karne se pehle sab se pehla qadam ye hai ke aap khud se poochen ke mujhe kya aata hai? Har insaan ko Allah ne koi na koi hunar zaroor diya hota hai. Kisi ko khana acha banana aata hai, kisi ko silai aati hai, kisi ko mobile theek karna aata hai, kisi ko bolna acha aata hai aur kisi ko computer ka kaam aata hai. Aap ka karobar hamesha aap ke hunar ke mutabiq hona chahiye." data-en="Before starting a business, the first step is to ask yourself: what am I good at? Allah has given every person some skill. Someone is good at cooking, someone knows stitching, someone can repair mobiles, someone speaks well and someone knows computer work. Your business should always match your skill.">Karobar shuru karne se pehle sab se pehla qadam ye hai ke aap khud se poochen ke mujhe kya aata hai? Har insaan ko Allah ne koi na koi hunar zaroor diya hota hai. Kisi ko khana acha banana aata hai, kisi ko silai aati hai, kisi ko mobile theek karna aata hai, kisi ko bolna acha aata hai aur kisi ko computer ka kaam aata hai. Aap ka karobar hamesha aap ke hunar ke mutabiq hona chahiye.</p>
+    <p data-ur="Misaal ke tor par agar aap ko khana banana acha aata hai to aap ghar se tiffin service shuru kar sakte hain. Agar silai aati hai to boutique ka kaam shuru kar sakti hain. Agar bachon ko parhana acha lagta hai to tuition shuru kar sakte hain. Ek kaghaz len aur us par apni 5 khoobiyan likhen. Phir dekhen ke in mein se kis khoobi se aap paise kama sakte hain. Yehi aap ke karobar ki bunyad hogi." data-en="For example, if you are good at cooking, you can start a tiffin service from home. If you know stitching, you can start boutique work. If you like teaching children, you can start tuition. Take a paper and write your 5 strengths. Then see which strength can earn you money. That will be the foundation of your business.">Misaal ke tor par agar aap ko khana banana acha aata hai to aap ghar se tiffin service shuru kar sakte hain. Agar silai aati hai to boutique ka kaam shuru kar sakti hain. Agar bachon ko parhana acha lagta hai to tuition shuru kar sakte hain. Ek kaghaz len aur us par apni 5 khoobiyan likhen. Phir dekhen ke in mein se kis khoobi se aap paise kama sakte hain. Yehi aap ke karobar ki bunyad hogi.</p>
+  </div>
 
-<h2>2۔ کم سرمایہ سے کاروبار شروع کرنے کا منصوبہ بنائیں</h2>
-<p>بہت سے لوگ صرف اس لیے کاروبار شروع نہیں کرتے کیونکہ ان کے پاس پیسے نہیں ہوتے۔ لیکن حقیقت یہ ہے کہ آج کل زیادہ تر چھوٹے کاروبار کم پیسوں سے ہی شروع ہوتے ہیں۔ آپ کو شروع میں بڑا سوچنے کی ضرورت نہیں ہے، چھوٹا سوچیں اور چھوٹے سے شروع کریں۔</p>
-<p>فرض کریں آپ کے پاس صرف 10 ہزار روپے ہیں۔ آپ اس سے کیا کر سکتے ہیں؟ آپ 10 ہزار روپے سے گھر میں چھوٹی سی شاپ شروع کر سکتے ہیں، جیسے چائے کا سامان، بچوں کے کھلونے، لیڈیز سوٹ، یا آن لائن چیزیں بیچنا۔ آپ پہلے تھوڑا سامان لائیں، اسے بیچیں، پھر جو منافع ہو اس سے دوبارہ سامان لائیں۔ اس طرح آپ کا کاروبار آہستہ آہستہ بڑا ہو جائے گا۔</p>
-<p>منصوبہ بناتے وقت ان باتوں کو ضرور لکھیں۔ پہلی بات، آپ کا کاروبار کیا ہوگا؟ دوسری بات، آپ کو کتنے پیسے چاہیے؟ تیسری بات، آپ کی چیزیں کون خریدے گا؟ چوتھی بات، آپ ایک مہینے میں کتنا کما سکتے ہیں؟ اگر آپ یہ چار باتیں لکھ لیتے ہیں تو سمجھیں آپ کا آدھا کام ہو گیا۔</p>
-<div class="tip"><b>سنہری اصول:</b> شروع میں خرچہ کم رکھیں۔ مہنگا موبائل، مہنگی دکان یا مہنگا اشتہار شروع میں نہ لیں۔ پہلے کمائیں، پھر اس کمائی سے کاروبار کو بڑا کریں۔</div>
+  <h2 class="section-title" data-ur="2. Kam Sarmaya Se Karobar Shuru Karne Ka Mansooba Banayen" data-en="2. Make A Plan To Start With Low Investment">2. Kam Sarmaya Se Karobar Shuru Karne Ka Mansooba Banayen</h2>
+  <div class="card">
+    <p data-ur="Bohat se log sirf is liye karobar shuru nahi karte kyun ke un ke paas paise nahi hote. Lekin haqeeqat ye hai ke aaj kal zyada tar chhote karobar kam paison se hi shuru hote hain. Farz karen aap ke paas sirf 10,000 rupay hain. Aap is se chhoti si shop shuru kar sakte hain, jaise bachon ke khilonay, ladies suit, ya online cheezen bechna. Pehle thora saaman layen, usay bechen, phir jo munafa ho us se dobara saaman layen. Is tarah aap ka karobar aahista aahista bara ho jaye ga." data-en="Many people do not start a business only because they do not have money. But the reality is that most small businesses today start with little money. Suppose you have only 10,000 rupees. You can start a small shop with it, like children's toys, ladies suits, or selling things online. First bring a little stock, sell it, then buy stock again from the profit. In this way your business will slowly grow.">Bohat se log sirf is liye karobar shuru nahi karte kyun ke un ke paas paise nahi hote. Lekin haqeeqat ye hai ke aaj kal zyada tar chhote karobar kam paison se hi shuru hote hain. Farz karen aap ke paas sirf 10,000 rupay hain. Aap is se chhoti si shop shuru kar sakte hain, jaise bachon ke khilonay, ladies suit, ya online cheezen bechna. Pehle thora saaman layen, usay bechen, phir jo munafa ho us se dobara saaman layen. Is tarah aap ka karobar aahista aahista bara ho jaye ga.</p>
+    <p data-ur="Mansooba banate waqt in baton ko zaroor likhen: 1. Aap ka karobar kya hoga? 2. Aap ko kitne paise chahiye? 3. Aap ki cheezen kaun khareede ga? 4. Aap ek mahine mein kitna kama sakte hain? Agar aap ye chaar baten likh lete hain to samjhen aap ka aadha kaam ho gaya." data-en="When making a plan, definitely write these things: 1. What will your business be? 2. How much money do you need? 3. Who will buy your products? 4. How much can you earn in one month? If you write these four things, consider half your work done.">Mansooba banate waqt in baton ko zaroor likhen: 1. Aap ka karobar kya hoga? 2. Aap ko kitne paise chahiye? 3. Aap ki cheezen kaun khareede ga? 4. Aap ek mahine mein kitna kama sakte hain? Agar aap ye chaar baten likh lete hain to samjhen aap ka aadha kaam ho gaya.</p>
+  </div>
+  <div class="tip" id="tip1">Sunheri Usool: Shuru mein kharcha kam rakhen. Mehnga mobile, mehngi dukaan ya mehnga ishtehaar shuru mein na len. Pehle kamayen, phir us kamai se karobar ko bara karen.</div>
 
-<h2>3۔ گھر بیٹھے کرنے والے 10 بہترین چھوٹے کاروبار</h2>
-<p>اب ہم آپ کو وہ 10 کاروبار بتاتے ہیں جو پاکستان میں گھر بیٹھے سب سے زیادہ کامیاب ہو رہے ہیں۔ آپ ان میں سے کوئی ایک منتخب کر سکتے ہیں۔</p>
-<h3>1۔ آن لائن کپڑوں کا کاروبار</h3>
-<p>آپ فیس بک اور واٹس ایپ پر لیڈیز سوٹ، بچوں کے کپڑے یا مردانہ کپڑے بیچ سکتے ہیں۔ آپ کو دکان کی ضرورت نہیں، آپ گھر سے تصویر لگا کر آرڈر لے سکتے ہیں۔ شروع میں آپ ہول سیل مارکیٹ سے 5 سے 10 سوٹ لے کر شروع کر سکتے ہیں۔</p>
-<h3>2۔ ٹفن اور کھانے کی سروس</h3>
-<p>اگر آپ کو کھانا بنانا آتا ہے تو یہ سب سے بہترین کاروبار ہے۔ دفاتر میں کام کرنے والے لوگوں، طلباء اور ہاسٹل میں رہنے والے لوگوں کو روزانہ کھانے کی ضرورت ہوتی ہے۔ آپ گھر سے روزانہ 10 سے 15 ٹفن بنا کر اچھی آمدنی کما سکتے ہیں۔</p>
-<h3>3۔ ٹیوشن اور آن لائن پڑھانا</h3>
-<p>اگر آپ پڑھے لکھے ہیں تو آپ بچوں کو ٹیوشن پڑھا سکتے ہیں۔ آج کل آن لائن ٹیوشن کا بھی بہت کام ہے۔ آپ موبائل سے ہی بچوں کو قرآن، انگریزی یا ریاضی پڑھا سکتے ہیں۔ اس میں آپ کو پیسے لگانے کی بھی ضرورت نہیں۔</p>
-<h3>4۔ یوٹیوب اور فیس بک پیج</h3>
-<p>اگر آپ کو بولنا یا کھانا بنانا یا کوئی ہنر سکھانا آتا ہے تو آپ یوٹیوب چینل بنا سکتے ہیں۔ شروع میں آپ کو پیسے نہیں ملیں گے، لیکن اگر آپ مسلسل 6 مہینے محنت کریں تو یہ ایک بہت بڑا کاروبار بن سکتا ہے۔</p>
-<h3>5۔ موبائل لوازمات اور ری چارج</h3>
-<p>آپ گھر کے سامنے چھوٹی سی جگہ پر موبائل کور، چارجر، ہینڈ فری اور ایزی لوڈ کا کام شروع کر سکتے ہیں۔ اس میں روزانہ کی آمدنی ہوتی ہے۔</p>
-<h3>6۔ بیوٹی پارلر اور مہندی</h3>
-<p>خواتین کے لیے گھر میں بیوٹی پارلر ایک بہت اچھا کاروبار ہے۔ آپ گھر کے ایک کمرے میں ہی یہ کام شروع کر سکتی ہیں۔</p>
-<h3>7۔ سلائی اور بوتیک</h3>
-<p>سلائی کا کام کبھی ختم نہیں ہوتا۔ ہر عید، ہر شادی پر لوگوں کو کپڑے سلوانے ہوتے ہیں۔ اگر آپ کو سلائی آتی ہے تو یہ آپ کے لیے بہترین ہے۔</p>
-<h3>8۔ فری لانسنگ</h3>
-<p>اگر آپ کو کمپیوٹر آتا ہے تو آپ گھر بیٹھے ڈیٹا انٹری، گرافک ڈیزائن، ویڈیو ایڈیٹنگ یا لکھائی کا کام کر کے ڈالر میں کما سکتے ہیں۔</p>
-<h3>9۔ چھوٹی کریانہ شاپ</h3>
-<p>آپ گھر کے سامنے ایک چھوٹی سی دکان بنا کر روزمرہ کی چیزیں بیچ سکتے ہیں۔ اس میں نقصان کا خطرہ بہت کم ہوتا ہے۔</p>
-<h3>10۔ ہوم ڈیلیوری سروس</h3>
-<p>آپ اپنے محلے میں لوگوں کو ان کی ضرورت کی چیزیں گھر پہنچا کر بھی پیسے کما سکتے ہیں۔</p>
+  <h2 class="section-title" data-ur="3. Ghar Baithe Karne Wale 10 Behtareen Chhote Karobar" data-en="3. 10 Best Small Businesses From Home">3. Ghar Baithe Karne Wale 10 Behtareen Chhote Karobar</h2>
+  <div class="card">
+    <h3 data-ur="1. Online Kapron Ka Karobar" data-en="1. Online Clothes Business">1. Online Kapron Ka Karobar</h3>
+    <p data-ur="Aap Facebook aur WhatsApp par ladies suit, bachon ke kapre ya mardana kapre bech sakte hain. Aap ko dukaan ki zaroorat nahi, ghar se tasveer laga kar order le sakte hain." data-en="You can sell ladies suits, children's clothes or men's clothes on Facebook and WhatsApp. You do not need a shop, you can take orders by posting photos from home.">Aap Facebook aur WhatsApp par ladies suit, bachon ke kapre ya mardana kapre bech sakte hain. Aap ko dukaan ki zaroorat nahi, ghar se tasveer laga kar order le sakte hain.</p>
+    <h3 data-ur="2. Tiffin Aur Khane Ki Service" data-en="2. Tiffin And Food Service">2. Tiffin Aur Khane Ki Service</h3>
+    <p data-ur="Agar aap ko khana banana aata hai to ye sab se behtareen karobar hai. Daftar mein kaam karne walon, talba aur hostel mein rehne walon ko rozana khane ki zaroorat hoti hai." data-en="If you are good at cooking, this is the best business. Office workers, students and hostel residents need food daily.">Agar aap ko khana banana aata hai to ye sab se behtareen karobar hai. Daftar mein kaam karne walon, talba aur hostel mein rehne walon ko rozana khane ki zaroorat hoti hai.</p>
+    <h3 data-ur="3. Tuition Aur Online Parhana" data-en="3. Tuition And Online Teaching">3. Tuition Aur Online Parhana</h3>
+    <p data-ur="Agar aap parhe likhe hain to bachon ko tuition parha sakte hain. Aaj kal online tuition ka bhi bohat kaam hai. Is mein paise lagane ki bhi zaroorat nahi." data-en="If you are educated, you can teach children tuition. Online tuition is also in high demand today. It does not even need investment.">Agar aap parhe likhe hain to bachon ko tuition parha sakte hain. Aaj kal online tuition ka bhi bohat kaam hai. Is mein paise lagane ki bhi zaroorat nahi.</p>
+    <h3 data-ur="4. YouTube Aur Facebook Page" data-en="4. YouTube And Facebook Page">4. YouTube Aur Facebook Page</h3>
+    <p data-ur="Agar aap ko bolna ya khana banana ya koi hunar sikhana aata hai to YouTube channel bana sakte hain. Shuru mein paise nahi milen ge, lekin agar 6 mahine musalsal mehnat karen to ye bohat bara karobar ban sakta hai." data-en="If you can speak, cook or teach a skill, you can create a YouTube channel. You will not earn in the beginning, but if you work continuously for 6 months, it can become a very big business.">Agar aap ko bolna ya khana banana ya koi hunar sikhana aata hai to YouTube channel bana sakte hain. Shuru mein paise nahi milen ge, lekin agar 6 mahine musalsal mehnat karen to ye bohat bara karobar ban sakta hai.</p>
+    <h3 data-ur="5. Mobile Lawazmat Aur Recharge" data-en="5. Mobile Accessories And Recharge">5. Mobile Lawazmat Aur Recharge</h3>
+    <p data-ur="Ghar ke samne chhoti si jagah par mobile cover, charger, handsfree aur Easy Load ka kaam shuru kar sakte hain. Is mein rozana ki aamdani hoti hai." data-en="You can start mobile covers, chargers, handsfree and Easy Load work in a small space in front of your home. It gives daily income.">Ghar ke samne chhoti si jagah par mobile cover, charger, handsfree aur Easy Load ka kaam shuru kar sakte hain. Is mein rozana ki aamdani hoti hai.</p>
+    <h3 data-ur="6. Beauty Parlour Aur Mehndi" data-en="6. Beauty Parlour And Mehndi">6. Beauty Parlour Aur Mehndi</h3>
+    <p data-ur="Khawateen ke liye ghar mein beauty parlour ek bohat acha karobar hai. Aap ghar ke ek kamre mein hi ye kaam shuru kar sakti hain." data-en="For women, a beauty parlour at home is a very good business. You can start this work in one room of your home.">Khawateen ke liye ghar mein beauty parlour ek bohat acha karobar hai. Aap ghar ke ek kamre mein hi ye kaam shuru kar sakti hain.</p>
+    <h3 data-ur="7. Silai Aur Boutique" data-en="7. Stitching And Boutique">7. Silai Aur Boutique</h3>
+    <p data-ur="Silai ka kaam kabhi khatam nahi hota. Har Eid, har shaadi par logon ko kapre silwane hote hain." data-en="Stitching work never ends. On every Eid and every wedding, people need clothes stitched.">Silai ka kaam kabhi khatam nahi hota. Har Eid, har shaadi par logon ko kapre silwane hote hain.</p>
+    <h3 data-ur="8. Freelancing" data-en="8. Freelancing">8. Freelancing</h3>
+    <p data-ur="Agar aap ko computer aata hai to ghar baithe data entry, graphic design, video editing ya likhai ka kaam kar ke dollar mein kama sakte hain." data-en="If you know computers, you can earn in dollars from home by doing data entry, graphic design, video editing or writing work.">Agar aap ko computer aata hai to ghar baithe data entry, graphic design, video editing ya likhai ka kaam kar ke dollar mein kama sakte hain.</p>
+    <h3 data-ur="9. Chhoti Karyana Shop" data-en="9. Small Grocery Shop">9. Chhoti Karyana Shop</h3>
+    <p data-ur="Ghar ke samne ek chhoti si dukaan bana kar rozmarra ki cheezen bech sakte hain. Is mein nuqsan ka khatra bohat kam hota hai." data-en="You can sell daily use items by making a small shop in front of your home. The risk of loss is very low in it.">Ghar ke samne ek chhoti si dukaan bana kar rozmarra ki cheezen bech sakte hain. Is mein nuqsan ka khatra bohat kam hota hai.</p>
+    <h3 data-ur="10. Home Delivery Service" data-en="10. Home Delivery Service">10. Home Delivery Service</h3>
+    <p data-ur="Apne mohalle mein logon ko un ki zaroorat ki cheezen ghar pahuncha kar bhi paise kama sakte hain." data-en="You can also earn money by delivering the things people need to their homes in your neighbourhood.">Apne mohalle mein logon ko un ki zaroorat ki cheezen ghar pahuncha kar bhi paise kama sakte hain.</p>
+  </div>
 
-<h2>4۔ گاہک کیسے تلاش کریں؟</h2>
-<p>کاروبار شروع کرنا آسان ہے، لیکن گاہک تلاش کرنا اصل کام ہے۔ شروع میں آپ کے گاہک آپ کے رشتہ دار، پڑوسی اور دوست ہوں گے۔ آپ ان کو بتائیں کہ آپ نے یہ کام شروع کیا ہے۔ شرمانے کی بالکل ضرورت نہیں ہے۔ جو شخص اپنے کام کو بتانے سے شرماتا ہے، وہ کبھی کامیاب نہیں ہوتا۔</p>
-<p>دوسرا طریقہ واٹس ایپ ہے۔ آپ اپنے موبائل میں واٹس ایپ اسٹیٹس لگائیں۔ روزانہ اپنی چیزوں کی تصویریں لگائیں۔ تیسرا طریقہ فیس بک ہے۔ آپ اپنے محلے کے فیس بک گروپ میں اپنی چیزیں بتائیں۔ اگر آپ کا کام اچھا ہوگا تو لوگ خود آپ کو دوسروں کو بتائیں گے۔ اس کو کہتے ہیں منہ زبانی تشہیر، اور یہ سب سے سستی اور سب سے اچھی تشہیر ہوتی ہے۔</p>
-<p>گاہکوں کے ساتھ ہمیشہ اچھا سلوک کریں۔ اگر کوئی گاہک آپ سے ایک بار ناراض ہو گیا تو وہ 10 لوگوں کو بتائے گا۔ اور اگر کوئی گاہک خوش ہو گیا تو وہ بھی 10 لوگوں کو بتائے گا۔ اس لیے ہمیشہ گاہک کو عزت دیں، اس کی بات سنیں اور اس کو اچھی چیز دیں۔</p>
-
-<h2>5۔ قیمت کیسے رکھیں؟ منافع کیسے نکالیں؟</h2>
-<p>بہت سے نئے لوگ قیمت رکھنے میں غلطی کرتے ہیں۔ وہ یا تو بہت زیادہ قیمت رکھ لیتے ہیں جس سے گاہک نہیں آتا، یا بہت کم قیمت رکھ لیتے ہیں جس سے ان کو نقصان ہوتا ہے۔ صحیح طریقہ یہ ہے کہ آپ سب سے پہلے اپنی چیز کی اصل قیمت نکالیں۔</p>
-<p>مثال کے طور پر اگر آپ ایک سوٹ 1000 روپے میں لائے ہیں اور اس کو لانے میں 100 روپے کرایہ لگا ہے، تو آپ کی اصل قیمت 1100 روپے ہوئی۔ اب آپ اس پر 300 سے 400 روپے منافع رکھ کر اس کو 1400 یا 1500 روپے میں بیچ سکتے ہیں۔ شروع میں منافع تھوڑا رکھیں تاکہ زیادہ گاہک آئیں۔ جب گاہک زیادہ ہو جائیں تو پھر آپ قیمت تھوڑی بڑھا سکتے ہیں۔</p>
-<p>ایک ڈائری ضرور رکھیں۔ اس میں روزانہ لکھیں کہ آج کتنا سامان آیا، کتنا بکا، کتنا خرچہ ہوا اور کتنا منافع ہوا۔ جو شخص حساب نہیں رکھتا، وہ کبھی نہیں جان سکتا کہ اس کا کاروبار چل رہا ہے یا ڈوب رہا ہے۔</p>
-
-<h2>6۔ آن لائن کاروبار کیسے بڑھائیں؟</h2>
-<p>آج کے دور میں اگر آپ کا کاروبار آن لائن نہیں ہے تو وہ آدھا ہے۔ آپ کو فیس بک پیج ضرور بنانا چاہیے۔ اپنے کاروبار کے نام سے ایک پیج بنائیں، اس پر اپنی چیزوں کی اچھی تصویریں لگائیں۔ تصویریں صاف ستھری ہونی چاہییں، اندھیرے میں لی ہوئی تصویریں نہ لگائیں۔</p>
-<p>واٹس ایپ بزنس ایپ استعمال کریں۔ اس میں آپ اپنی چیزیں کیٹلاگ میں لگا سکتے ہیں۔ اس سے گاہک کو آپ کی ساری چیزیں ایک جگہ نظر آ جاتی ہیں۔ اس کے علاوہ آپ ٹک ٹاک اور انسٹاگرام پر بھی چھوٹی چھوٹی ویڈیو بنا سکتے ہیں۔ لوگ ویڈیو دیکھ کر زیادہ خریدتے ہیں۔</p>
-<p>اگر آپ کے پاس پیسے ہیں تو آپ فیس بک پر 500 یا 1000 روپے کا چھوٹا سا اشتہار بھی چلا سکتے ہیں۔ اس سے آپ کے علاقے کے لوگوں کو آپ کے کاروبار کا پتہ چل جائے گا۔ لیکن شروع میں مفت والے طریقوں سے ہی کام کریں۔</p>
-
-<h2>7۔ کاروبار میں ناکامی کی 5 بڑی غلطیاں</h2>
-<p>اب ہم آپ کو وہ غلطیاں بتاتے ہیں جن سے آپ کو بچنا ہے۔ پہلی غلطی، جلدی ہار مان لینا۔ بہت سے لوگ ایک مہینے میں کامیاب نہ ہوں تو کاروبار چھوڑ دیتے ہیں۔ یاد رکھیں، کاروبار کو کم سے کم 6 مہینے دینے ہوتے ہیں۔ دوسری غلطی، ادھار پر سامان دینا۔ شروع میں کبھی بھی ادھار پر سامان نہ دیں، ورنہ آپ کے پیسے پھنس جائیں گے۔</p>
-<p>تیسری غلطی، منافع کو کھا لینا۔ جب آپ کو منافع ہو تو اس کو فوراً خرچ نہ کریں، بلکہ اس کو دوبارہ کاروبار میں لگائیں۔ چوتھی غلطی، گاہک سے بدتمیزی کرنا۔ گاہک آپ کے کاروبار کی جان ہے۔ پانچویں غلطی، بغیر منصوبے کے کاروبار کرنا۔ بغیر منصوبے کے کاروبار ایسا ہے جیسے بغیر نقشے کے سفر کرنا۔</p>
-<div class="box"><b>یاد رکھیں:</b> کامیاب کاروباری وہ نہیں ہوتا جس کے پاس زیادہ پیسے ہوں، کامیاب وہ ہوتا ہے جو زیادہ صبر کرتا ہے اور مسلسل محنت کرتا ہے۔</div>
-
-<h2>8۔ خواتین کے لیے گھر بیٹھے کاروبار</h2>
-<p>خواتین کے لیے گھر بیٹھے کاروبار کرنا آج کل بہت آسان ہو گیا ہے۔ بہت سی خواتین گھر بیٹھے ہی اپنے بچوں کی دیکھ بھال کے ساتھ ساتھ اچھی آمدنی کما رہی ہیں۔ اگر آپ خاتون ہیں تو آپ سلائی، کھانا بنانا، آن لائن کپڑے بیچنا، بیوٹی پارلر، یا بچوں کو پڑھانا شروع کر سکتی ہیں۔</p>
-<p>خواتین کے لیے سب سے اچھی بات یہ ہے کہ ان کو باہر جانے کی ضرورت نہیں ہے۔ وہ واٹس ایپ اور فیس بک سے ہی اپنا کاروبار چلا سکتی ہیں۔ شروع میں اپنے محلے سے شروع کریں، پھر آہستہ آہستہ پورے شہر میں اپنا کام پھیلائیں۔ اپنے شوہر یا گھر والوں کو اعتماد میں لے کر چلیں، تاکہ وہ بھی آپ کی مدد کریں۔</p>
-
-<h2>9۔ طلباء کے لیے کم پیسوں والا کاروبار</h2>
-<p>اگر آپ طالب علم ہیں تو آپ بھی پڑھائی کے ساتھ ساتھ چھوٹا کاروبار کر سکتے ہیں۔ آپ اپنے کالج میں نوٹس بیچ سکتے ہیں، دوستوں کو موبائل لوازمات بیچ سکتے ہیں، یا آن لائن فری لانسنگ کر سکتے ہیں۔ طلباء کے لیے سب سے اچھا کاروبار وہ ہے جس میں وقت کم لگے اور پڑھائی کا نقصان نہ ہو۔</p>
-<p>آپ روزانہ صرف 2 گھنٹے کاروبار کو دیں۔ اس سے آپ کی جیب خرچ بھی نکل آئے گی اور آپ کو کاروبار کا تجربہ بھی ہو جائے گا۔ جب آپ پڑھائی مکمل کریں گے تو آپ کے پاس پہلے سے ایک چلتا ہوا کاروبار ہوگا، آپ کو نوکری ڈھونڈنے کی ضرورت نہیں ہوگی۔</p>
-
-<h2>10۔ کاروبار کو بڑا کیسے کریں؟</h2>
-<p>جب آپ کا چھوٹا کاروبار چلنے لگے تو اب اس کو بڑا کرنے کا وقت ہے۔ بڑا کرنے کے لیے آپ کو تین کام کرنے ہیں۔ پہلا کام، اپنے گاہکوں کی تعداد بڑھائیں۔ دوسرا کام، اپنی چیزوں کی تعداد بڑھائیں۔ اگر آپ پہلے صرف سوٹ بیچتے تھے تو اب آپ دوپٹے، جوتے اور بیگ بھی بیچنا شروع کریں۔ تیسرا کام، اپنے کاروبار کا نام رجسٹر کروائیں اور اس کا ایک اچھا سا لوگو بنوائیں۔</p>
-<p>جب آپ کا کاروبار بڑا ہو جائے تو آپ کسی کو مدد کے لیے بھی رکھ سکتے ہیں۔ لیکن مدد کے لیے ہمیشہ ایماندار شخص کو رکھیں۔ اور اپنے حساب کتاب کو کبھی بھی کسی اور کے حوالے نہ کریں۔</p>
-
-<h2>اکثر پوچھے جانے والے سوالات</h2>
-<h3>سوال: گھر بیٹھے کاروبار کے لیے کتنے پیسے چاہیے؟</h3>
-<p>آپ 5000 روپے سے بھی شروع کر سکتے ہیں۔ ٹیوشن، فری لانسنگ اور ٹفن سروس میں تو پیسے لگانے کی بھی ضرورت نہیں ہوتی۔</p>
-<h3>سوال: کیا بغیر دکان کے کاروبار ہو سکتا ہے؟</h3>
-<p>جی ہاں، بالکل ہو سکتا ہے۔ آج کل 80 فیصد چھوٹے کاروبار بغیر دکان کے واٹس ایپ اور فیس بک سے ہی چل رہے ہیں۔</p>
-<h3>سوال: کاروبار میں منافع کب ہوگا؟</h3>
-<p>عام طور پر پہلے 3 مہینے میں آپ کو صرف خرچہ پورا ہوگا، 6 مہینے کے بعد منافع شروع ہوگا۔ اس لیے صبر ضروری ہے۔</p>
-<h3>سوال: اگر نقصان ہو گیا تو کیا کریں؟</h3>
-<p>نقصان سے گھبرائیں نہیں۔ اپنی غلطی کو تلاش کریں، اس کو ٹھیک کریں اور دوبارہ کوشش کریں۔ ہر کامیاب کاروباری نے کبھی نہ کبھی نقصان ضرور اٹھایا ہوتا ہے۔</p>
-
-<h2>نتیجہ</h2>
-<p>تو دوستو، اب آپ کو سمجھ آ گیا ہوگا کہ گھر بیٹھے چھوٹا کاروبار کیسے شروع کریں۔ اس کے لیے آپ کو صرف ایک فیصلہ کرنا ہے، ایک چھوٹا سا منصوبہ بنانا ہے اور آج سے ہی شروع کرنا ہے۔ کل کا انتظار نہ کریں۔ جو لوگ آج شروع کرتے ہیں، وہی کل کامیاب ہوتے ہیں۔</p>
-<p>اگر آپ نے ابھی تک شروع نہیں کیا تو آج ہی ایک کاغذ لیں، اپنا کاروبار لکھیں، اس کے لیے 5000 روپے الگ کریں اور پہلا قدم اٹھائیں۔ اللہ آپ کی محنت میں برکت دے گا۔ اگر آپ کو یہ آرٹیکل اچھا لگا تو اس کو اپنے دوستوں کے ساتھ ضرور شیئر کریں تاکہ وہ بھی اپنا کاروبار شروع کر سکیں۔</p>
-<p>کاروبار، آن لائن کمائی اور فری لانسنگ کے بارے میں مزید معلومات کے لیے ہماری ویب سائٹ <b>Online Success</b> وزٹ کرتے رہیں۔</p>
-
-<a class="back" href="../index.html">← ہوم پیج پر واپس جائیں</a>
-<a class="back" href="../Freelancing/">فری لانسنگ بھی دیکھیں →</a>
-</article>
-<footer>© 2026 Online Success - Learn • Work • Earn</footer>
-</body>
-</html>
+  <h2 class="section-title" data-ur="4. Gahak Kaise Talash Karen?" data-en="4. How To Find Customers?">4. Gahak Kaise Talash Karen?</h2>
+  <div class="card">
+    <p data-ur="Karobar shuru karna aasan hai, lekin gahak talash karna asal kaam hai. Shuru mein aap ke gahak aap ke rishtedar, parosi aur dost honge. Un ko batayen ke aap ne ye kaam shuru kiya hai. Sharmane ki bilkul zaroorat nahi hai. Jo shakhs apne kaam ko batane se sharmata hai, woh kabhi kamyab nahi hota." data-en="Starting a business is easy, but finding customers is the real work. In the beginning your customers will be your relatives, neighbours and friends. Tell them you have started this work. There is no need to feel shy at all. A person who feels shy to tell about his work never succeeds.">Karobar shuru karna aasan hai, lekin gahak talash karna asal kaam hai. Shuru mein aap ke gahak aap ke rishtedar, parosi aur dost honge. Un ko batayen ke aap ne ye kaam shuru kiya hai. Sharmane ki bilkul zaroorat nahi hai. Jo shakhs apne kaam ko batane se sharmata hai, woh kabhi kamyab nahi hota.</p>
+    <p data-ur="Doosra tareeqa WhatsApp hai. Rozana apni cheezon ki tasveeren
